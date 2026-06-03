@@ -8,7 +8,7 @@ topic: Deep-dive into kanji productivity with actual database numbers
 
 # Kanji Root Families: The Most Productive Kanji by the Numbers
 
-> *Hard data from the 27,950-compound Kanji Database — which kanji combine with the most partners, and what that means for learning*
+> *Hard data from the 27,950-compound Kanji Database - which kanji combine with the most partners, and what that means for learning*
 
 **Part of the [Roots of Japanese](index.md) project.** See also: [Catalog](kanji-roots-catalog.md) | [Sound Roots](sound-roots.md) | [Verb Roots](verb-roots.md)
 
@@ -94,7 +94,7 @@ These kanji appear most often as the **first element** of a compound:
 | 9 | **道** | 109 | 25 | **4.4:1** | path-, via- |
 | 10 | **目** | 109 | 44 | 2.5:1 | eye-, view- |
 
-**子** (child) and **事** (thing) are extremely left-dominant — they hardly ever appear as the second element.
+**子** (child) and **事** (thing) are extremely left-dominant - they hardly ever appear as the second element.
 
 ### The Most "Suffix-like" (Right-Dominant)
 
@@ -121,7 +121,7 @@ The mirror image is negation. 不 and 無 are the strongest *prefixes* in the da
 
 ## Deep Dive by Kanji Family
 
-### 4.1 Big/Small — 大小
+### 4.1 Big/Small - 大小
 
 | Kanji | Meaning | Left | Right | Total | Position preference |
 |-------|---------|------|-------|-------|-------------------|
@@ -131,27 +131,27 @@ The mirror image is negation. 不 and 無 are the strongest *prefixes* in the da
 **大** is the #1 overall by total compounds. It's extremely productive on the **right** side:
 
 **大 on the right** (like a suffix):
-- 最大 (maximum — most big)
-- 拡大 (expansion — spread big)
-- 巨大 (huge — giant big)
-- 強大 (powerful — strong big)
-- 壮大 (grand — majestic big)
-- 重大 (serious — heavy big)
-- 絶大 (enormous — extreme big)
+- 最大 (maximum - most big)
+- 拡大 (expansion - spread big)
+- 巨大 (huge - giant big)
+- 強大 (powerful - strong big)
+- 壮大 (grand - majestic big)
+- 重大 (serious - heavy big)
+- 絶大 (enormous - extreme big)
 
 **大 on the left** (like a prefix):
-- 大学 (university — big study)
-- 大事 (important — big matter)
-- 大部分 (most part — big portion)
-- 大使 (ambassador — big envoy)
+- 大学 (university - big study)
+- 大事 (important - big matter)
+- 大部分 (most part - big portion)
+- 大使 (ambassador - big envoy)
 
 **小 on the right**:
-- 最小 (minimum — most small)
-- 縮小 (shrink — contract small)
-- 微小 (tiny — minute small)
-- 弱小 (weak — weak small)
+- 最小 (minimum - most small)
+- 縮小 (shrink - contract small)
+- 微小 (tiny - minute small)
+- 弱小 (weak - weak small)
 
-### 4.2 Negation — 不無非未
+### 4.2 Negation - 不無非未
 
 | Kanji | Meaning | Left | Right | Total | Position |
 |-------|---------|------|-------|-------|----------|
@@ -160,7 +160,7 @@ The mirror image is negation. 不 and 無 are the strongest *prefixes* in the da
 | **非** | not, anti- | 38 | 12 | 50 | Left-dominant (prefix) |
 | **未** | not yet | 41 | 8 | 49 | Left-dominant (prefix) |
 
-All four negation kanji are **left-side** (prefix-like) elements — they attach to the beginning of a compound to negate or modify it:
+All four negation kanji are **left-side** (prefix-like) elements - they attach to the beginning of a compound to negate or modify it:
 
 - **不** + 可能 = 不可能 (impossible)
 - **無** + 料 = 無料 (free, without charge)
@@ -168,22 +168,22 @@ All four negation kanji are **left-side** (prefix-like) elements — they attach
 - **未** + 来 = 未来 (future, not yet come)
 
 **不 compounds** (不 in FIRST position):
-- 不安 (anxiety — not + peaceful)
-- 不便 (inconvenient — not + convenient)
-- 不満 (dissatisfaction — not + full)
-- 不可能 (impossible — not + possible)
-- 不正 (injustice — not + correct)
-- 不十分 (insufficient — not + enough)
-- 不注意 (careless — not + careful)
-- 不意 (unexpected — not + intentional)
+- 不安 (anxiety - not + peaceful)
+- 不便 (inconvenient - not + convenient)
+- 不満 (dissatisfaction - not + full)
+- 不可能 (impossible - not + possible)
+- 不正 (injustice - not + correct)
+- 不十分 (insufficient - not + enough)
+- 不注意 (careless - not + careful)
+- 不意 (unexpected - not + intentional)
 
 **無 compounds**:
-- 無料 (free — without + fee)
-- 無限 (infinite — without + limit)
-- 無意味 (meaningless — without + meaning)
-- 無関心 (indifferent — without + interest)
+- 無料 (free - without + fee)
+- 無限 (infinite - without + limit)
+- 無意味 (meaningless - without + meaning)
+- 無関心 (indifferent - without + interest)
 
-### 4.3 People — 人者子
+### 4.3 People - 人者子
 
 | Kanji | Meaning | Left | Right | Total | Position |
 |-------|---------|------|-------|-------|----------|
@@ -196,7 +196,7 @@ All four negation kanji are **left-side** (prefix-like) elements — they attach
 
 The single left-hand compound is likely 者共 (those people / they), a rare usage.
 
-### 4.4 Abstract Suffixes — 的性化
+### 4.4 Abstract Suffixes - 的性化
 
 From the first query (specific kanji):
 
@@ -206,16 +206,16 @@ From the first query (specific kanji):
 | **性** | -ity, nature | 26 | **80** | 106 | Right (suffix) |
 | **化** | -ization | 12 | **57** | 69 | Right (suffix) |
 
-All three are **right-dominant** — they are classic suffixes:
+All three are **right-dominant** - they are classic suffixes:
 - **的**: 科学的 (scientific), 経済的 (economic), 具体的 (concrete)
 - **性**: 可能性 (possibility), 安全性 (safety), 重要性 (importance)
 - **化**: 現代化 (modernization), 自動化 (automation), 国際化 (internationalization)
 
-**Important nuance — 的 has two lives**:
-1. As a suffix meaning "-ic/-al": 科学的, 経済的 — Right position (the dominant usage)
-2. As a noun meaning "target": 目的 (purpose), 的中 (hit the mark) — Left position (3 compounds)
+**Important nuance - 的 has two lives**:
+1. As a suffix meaning "-ic/-al": 科学的, 経済的 - Right position (the dominant usage)
+2. As a noun meaning "target": 目的 (purpose), 的中 (hit the mark) - Left position (3 compounds)
 
-### 4.5 Systems — 制体制成
+### 4.5 Systems - 制体制成
 
 From the first query:
 
@@ -225,44 +225,44 @@ From the first query:
 | **成** | become, form | 39 | 35 | 74 |
 | **体** | body, system | 28 | 31 | 59 |
 
-**制** (52 total compounds) — moderate but reliable productivity:
+**制** (52 total compounds) - moderate but reliable productivity:
 
 **制 on the left** (prefix):
-- 制度 (system — system + degree)
-- 制限 (restriction — system + limit)
-- 制御 (control — system + drive)
-- 制作 (production — system + make)
+- 制度 (system - system + degree)
+- 制限 (restriction - system + limit)
+- 制御 (control - system + drive)
+- 制作 (production - system + make)
 
 **制 on the right** (suffix):
-- 体制 (structure — body + system)
-- 規制 (regulation — rule + system)
-- 統制 (control — unified + system)
-- 抑制 (suppression — restrain + system)
-- 強制 (compulsion — force + system)
-- 法制 (legislation — law + system)
-- 節制 (moderation — moderate + system)
+- 体制 (structure - body + system)
+- 規制 (regulation - rule + system)
+- 統制 (control - unified + system)
+- 抑制 (suppression - restrain + system)
+- 強制 (compulsion - force + system)
+- 法制 (legislation - law + system)
+- 節制 (moderation - moderate + system)
 
-**成** (74 total compounds) — balanced between left and right:
+**成** (74 total compounds) - balanced between left and right:
 
 **成 on the left** (prefix):
-- 成功 (success — become + merit)
-- 成果 (result — become + fruit)
-- 成長 (growth — become + long)
-- 成熟 (maturity — become + ripe)
-- 成立 (establishment — become + stand)
+- 成功 (success - become + merit)
+- 成果 (result - become + fruit)
+- 成長 (growth - become + long)
+- 成熟 (maturity - become + ripe)
+- 成立 (establishment - become + stand)
 
 **成 on the right** (suffix):
-- 完成 (completion — finish + become)
-- 構成 (composition — construct + become)
-- 形成 (formation — shape + become)
-- 養成 (training — nurture + become)
-- 育成 (fostering — raise + become)
-- 達成 (achievement — attain + become)
-- 賛成 (agreement — support + become)
+- 完成 (completion - finish + become)
+- 構成 (composition - construct + become)
+- 形成 (formation - shape + become)
+- 養成 (training - nurture + become)
+- 育成 (fostering - raise + become)
+- 達成 (achievement - attain + become)
+- 賛成 (agreement - support + become)
 
 **制 and 成 together**: The common compound **体制** (system + system = structure/system) uses both.
 
-### 4.6 Location — 上下中内外
+### 4.6 Location - 上下中内外
 
 | Kanji | Meaning | Left | Right | Total | Balance |
 |-------|---------|------|-------|-------|---------|
@@ -272,7 +272,7 @@ From the first query:
 | **内** | inside | 60 | 107 | 167 | Somewhat Right |
 | **外** | outside | 64 | 92 | 156 | Somewhat Right |
 
-Location kanji are the most **balanced** — they appear freely on both sides.
+Location kanji are the most **balanced** - they appear freely on both sides.
 
 **上**: 以上 (above), 上昇 (rise), 地上 (ground), 水上 (on water)
 **下**: 以下 (below), 下降 (descent), 地下 (underground), 状況下 (under circumstances)
@@ -318,32 +318,32 @@ A key insight from the data: some kanji naturally want to be on one side or the 
 
 ### 1. Learn by Side Preference
 
-If a kanji is **strongly left-dominant** (like 人, 事, 行), learn it as a **prefix-like root** — it modifies the next kanji.
+If a kanji is **strongly left-dominant** (like 人, 事, 行), learn it as a **prefix-like root** - it modifies the next kanji.
 
-If a kanji is **strongly right-dominant** (like 者, 的, 性, 化), learn it as a **suffix-like root** — it gets modified by the preceding kanji.
+If a kanji is **strongly right-dominant** (like 者, 的, 性, 化), learn it as a **suffix-like root** - it gets modified by the preceding kanji.
 
 ### 2. The 不 Discovery
 
-不 has **zero** right-hand compounds. It only appears in the first position — this confirms 不 is a pure prefix. When you see 不 in a jukugo, 不 is **always on the left**, negating whatever follows:
+不 has **zero** right-hand compounds. It only appears in the first position - this confirms 不 is a pure prefix. When you see 不 in a jukugo, 不 is **always on the left**, negating whatever follows:
 
 - 不 + 可能 (possible) = 不可能 (impossible)
 - 不 + 安 (peace) = 不安 (anxiety, unease)
 
-This aligns with how every textbook explains it — 不 = "un-/in-/dis-" as a prefix.
+This aligns with how every textbook explains it - 不 = "un-/in-/dis-" as a prefix.
 
 ### 3. Your Specific Kanji: 制 and 成
 
 | Kanji | Total compounds | Common meaning | Primary position |
 |-------|----------------|----------------|-----------------|
-| **制** | 52 | system, control | Left (32L, 20R) — somewhat left |
-| **成** | 74 | become, form | Balanced (39L, 35R) — almost 50/50 |
+| **制** | 52 | system, control | Left (32L, 20R) - somewhat left |
+| **成** | 74 | become, form | Balanced (39L, 35R) - almost 50/50 |
 
-**制** leans left — it often *sets the system*:
+**制** leans left - it often *sets the system*:
 - 制度 (system), 制限 (restriction), 制御 (control), 制作 (production)
 
-**成** is balanced — it can be the action or the result:
-- Left: 成功 (success), 成長 (growth) — "becoming" as action  
-- Right: 完成 (completion), 構成 (composition) — "become" as result
+**成** is balanced - it can be the action or the result:
+- Left: 成功 (success), 成長 (growth) - "becoming" as action  
+- Right: 完成 (completion), 構成 (composition) - "become" as result
 
 ### 4. The Database as a Learning Tool
 

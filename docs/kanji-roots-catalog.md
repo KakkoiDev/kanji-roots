@@ -8,7 +8,7 @@ topic: Most productive kanji in two-character compound words
 
 # Japanese Kanji as Productive Roots
 
-> *Kanji that behave like Latin/Greek roots — combining with many partners to generate diverse compound words*
+> *Kanji that behave like Latin/Greek roots - combining with many partners to generate diverse compound words*
 
 **Part of the [Roots of Japanese](index.md) project.** See also: [The Data](kanji-roots-data.md) | [Sound Roots](sound-roots.md) | [Verb Roots](verb-roots.md)
 
@@ -20,7 +20,7 @@ In English, knowing the Latin root **"struct"** unlocks a whole family of words:
 
 **Japanese kanji work exactly the same way.** A single kanji with a core meaning appears as a building block in dozens, sometimes hundreds, of two-kanji compound words (jukugo / 二字熟語). Learning these high-productivity kanji is like getting a master key to the Japanese lexicon.
 
-This guide ranks and categorizes the most **"multi-functional" kanji** — the ones that combine with the most partners to form the most compound words.
+This guide ranks and categorizes the most **"multi-functional" kanji** - the ones that combine with the most partners to form the most compound words.
 
 ---
 
@@ -32,8 +32,8 @@ A two-kanji compound (jukugo) has two positions:
 
 | Position | Japanese | Analogy in English | Example |
 |----------|----------|-------------------|---------|
-| **Left-hand** (first kanji) | 前項 (ぜんこう) | Prefix-like | **不**可能 (impossible) — 不 = "un-" |
-| **Right-hand** (second kanji) | 後項 (こうこう) | Suffix-like | 可能**性** (possibility) — 性 = "-ity" |
+| **Left-hand** (first kanji) | 前項 (ぜんこう) | Prefix-like | **不**可能 (impossible) - 不 = "un-" |
+| **Right-hand** (second kanji) | 後項 (こうこう) | Suffix-like | 可能**性** (possibility) - 性 = "-ity" |
 
 Research by Tamaoka & Altmann (2004) shows that:
 - Some kanji are more productive on the **left-hand side** (they like to be the first element)
@@ -69,7 +69,7 @@ When a kanji is a bound affix, never try to use it as a standalone word. When it
 
 ## Kanji That Prefer the Left-Hand Position (Prefix-like)
 
-These kanji typically appear as the **first element** in a compound, modifying the second kanji — like English prefixes.
+These kanji typically appear as the **first element** in a compound, modifying the second kanji - like English prefixes.
 
 | Kanji | Reading | Core Meaning | English Analogy | Example Compounds |
 |-------|---------|-------------|-----------------|-------------------|
@@ -91,7 +91,7 @@ These kanji typically appear as the **first element** in a compound, modifying t
 
 ## Kanji That Prefer the Right-Hand Position (Suffix-like)
 
-These kanji typically appear as the **second element**, modifying or categorizing the first — like English suffixes.
+These kanji typically appear as the **second element**, modifying or categorizing the first - like English suffixes.
 
 | Kanji | Reading | Core Meaning | English Analogy | Example Compounds |
 |-------|---------|-------------|-----------------|-------------------|
@@ -221,75 +221,75 @@ These kanji typically appear as the **second element**, modifying or categorizin
 
 ## The Most Productive Kanji in Detail
 
-### 大 (big) — The Champion of Productivity
+### 大 (big) - The Champion of Productivity
 
 **Position**: productive on both sides, but strongly dominant on the right-hand side.
 
 The core meaning "big" extends metaphorically to "great, important, large-scale, extensive."
 
 **Left-hand (prefix-like):**
-- 大学 (university — big study)
-- 大事 (important — big matter)
-- 大部分 (most part — big portion)
-- 大使 (ambassador — big envoy)
-- 大統領 (president — big commander)
+- 大学 (university - big study)
+- 大事 (important - big matter)
+- 大部分 (most part - big portion)
+- 大使 (ambassador - big envoy)
+- 大統領 (president - big commander)
 - 大規模 (large scale)
 - 大企業 (large corporation)
 - 大地震 (major earthquake)
 
 **Right-hand (suffix-like):**
-- 最大 (maximum — most big)
-- 拡大 (expansion — spread big)
-- 巨大 (huge — giant big)
-- 強大 (powerful — strong big)
-- 壮大 (grand — majestic big)
-- 重大 (serious — heavy big)
-- 絶大 (enormous — extreme big)
-- 尊大 (arrogant — haughty big)
+- 最大 (maximum - most big)
+- 拡大 (expansion - spread big)
+- 巨大 (huge - giant big)
+- 強大 (powerful - strong big)
+- 壮大 (grand - majestic big)
+- 重大 (serious - heavy big)
+- 絶大 (enormous - extreme big)
+- 尊大 (arrogant - haughty big)
 
 **English analogy**: "macro- / mega- / magni-"
 
 ---
 
-### 不 (not/un-) — The Great Negator
+### 不 (not/un-) - The Great Negator
 
 Almost exclusively on the **left-hand side** (a prefix).
 
 The most productive negation prefix in Japanese. Attaches freely to nouns, na-adjectives, and verbs.
 
-- 不安 (uneasy — not peaceful)
-- 不可能 (impossible — not possible)
-- 不満 (dissatisfaction — not full/satisfied)
-- 不便 (inconvenient — not convenient)
-- 不十分 (insufficient — not enough)
-- 不注意 (carelessness — not careful)
-- 不況 (recession — not prosperous)
-- 不正 (injustice — not correct)
-- 不公平 (unfair — not fair)
-- 不朽 (immortal — not decay)
-- 不意 (unexpected — not intentional)
-- 不在 (absence — not present)
+- 不安 (uneasy - not peaceful)
+- 不可能 (impossible - not possible)
+- 不満 (dissatisfaction - not full/satisfied)
+- 不便 (inconvenient - not convenient)
+- 不十分 (insufficient - not enough)
+- 不注意 (carelessness - not careful)
+- 不況 (recession - not prosperous)
+- 不正 (injustice - not correct)
+- 不公平 (unfair - not fair)
+- 不朽 (immortal - not decay)
+- 不意 (unexpected - not intentional)
+- 不在 (absence - not present)
 
 **English analogy**: "un- / in- / dis- / im-"
 
 ---
 
-### 者 (person) — The People Suffix
+### 者 (person) - The People Suffix
 
 On the **right-hand side** (a suffix).
 
 The go-to suffix for creating "person who does X" or "person characterized by X."
 
-- 医者 (doctor — medical person)
-- 科学者 (scientist — science person)
-- 記者 (journalist — record person)
-- 読者 (reader — read person)
-- 患者 (patient — suffer person)
-- 学者 (scholar — study person)
-- 著者 (author — write person)
-- 労働者 (worker — labor person)
-- 経営者 (manager — management person)
-- 被害者 (victim — damage person)
+- 医者 (doctor - medical person)
+- 科学者 (scientist - science person)
+- 記者 (journalist - record person)
+- 読者 (reader - read person)
+- 患者 (patient - suffer person)
+- 学者 (scholar - study person)
+- 著者 (author - write person)
+- 労働者 (worker - labor person)
+- 経営者 (manager - management person)
+- 被害者 (victim - damage person)
 - 当事者 (person concerned)
 - 第三者 (third party)
 
@@ -297,7 +297,7 @@ The go-to suffix for creating "person who does X" or "person characterized by X.
 
 ---
 
-### 的 (-ic/al) — The Adjectivalizer
+### 的 (-ic/al) - The Adjectivalizer
 
 On the **right-hand side** (a suffix).
 
@@ -314,60 +314,60 @@ This kanji originally means "target/bullseye" but is overwhelmingly used as an a
 - 自然的 (natural)
 - 積極的 (positive / active)
 - 消極的 (negative / passive)
-- 目的 (purpose — the original meaning: "target + mark")
+- 目的 (purpose - the original meaning: "target + mark")
 
 **English analogy**: "-ic / -al / -ive / -ous"
 
 ---
 
-### 生 (life) — Life Force
+### 生 (life) - Life Force
 
 Productive on **both sides**.
 
 One of the most versatile kanji spanning life, birth, living, raw, and learning.
 
 **Left-hand:**
-- 生活 (living — life + activity)
-- 生産 (production — life + produce)
-- 生命 (life — life + fate)
-- 生物 (living thing — life + thing)
-- 生育 (growth — life + raise)
+- 生活 (living - life + activity)
+- 生産 (production - life + produce)
+- 生命 (life - life + fate)
+- 生物 (living thing - life + thing)
+- 生育 (growth - life + raise)
 
 **Right-hand:**
-- 人生 (human life — person + life)
-- 学生 (student — study + life)
-- 先生 (teacher — prior + life)
-- 衛生 (hygiene — guard + life)
-- 一生 (whole life — one + life)
-- 誕生 (birth — be born + life)
+- 人生 (human life - person + life)
+- 学生 (student - study + life)
+- 先生 (teacher - prior + life)
+- 衛生 (hygiene - guard + life)
+- 一生 (whole life - one + life)
+- 誕生 (birth - be born + life)
 
 **English analogy**: "bio- / -life / -genesis"
 
 ---
 
-### 性 (-ity/-ness) — Abstract Quality
+### 性 (-ity/-ness) - Abstract Quality
 
 On the **right-hand side** (a suffix).
 
 Creates abstract nouns expressing quality, nature, or property. Equivalent to "-ity," "-ness," or "-ence" in English.
 
-- 可能性 (possibility — can + nature)
-- 重要性 (importance — important + nature)
-- 安全性 (safety — safe + nature)
-- 必要性 (necessity — necessary + nature)
-- 危険性 (danger — danger + nature)
-- 習慣性 (habituality — habit + nature)
-- 人間性 (humanity — human + nature)
-- 個性 (individuality — individual + nature)
-- 男性 (male — male + nature)
-- 女性 (female — female + nature)
-- 性格 (personality — nature + character)
+- 可能性 (possibility - can + nature)
+- 重要性 (importance - important + nature)
+- 安全性 (safety - safe + nature)
+- 必要性 (necessity - necessary + nature)
+- 危険性 (danger - danger + nature)
+- 習慣性 (habituality - habit + nature)
+- 人間性 (humanity - human + nature)
+- 個性 (individuality - individual + nature)
+- 男性 (male - male + nature)
+- 女性 (female - female + nature)
+- 性格 (personality - nature + character)
 
 **English analogy**: "-ity / -ness / -ence"
 
 ---
 
-### 人 (person) — The Universal People Word
+### 人 (person) - The Universal People Word
 
 Productive on **both sides**.
 
@@ -385,11 +385,11 @@ The basic word for person. On the right-hand side, it creates nationality and ro
 - 証人 (witness)
 
 **Left-hand:**
-- 人口 (population — person + mouth)
-- 人生 (human life — person + life)
-- 人間 (human being — person + interval)
-- 人工 (artificial — person + work)
-- 人格 (personality — person + character)
+- 人口 (population - person + mouth)
+- 人生 (human life - person + life)
+- 人間 (human being - person + interval)
+- 人工 (artificial - person + work)
+- 人格 (personality - person + character)
 
 **English analogy**: "person / -an / -ian"
 
@@ -397,7 +397,7 @@ The basic word for person. On the right-hand side, it creates nationality and ro
 
 ## Productivity by JLPT Level
 
-### N5-N4 (Beginner) — The Absolute Essentials
+### N5-N4 (Beginner) - The Absolute Essentials
 
 These high-productivity kanji are learned at the beginner level, and for good reason:
 
@@ -412,7 +412,7 @@ These high-productivity kanji are learned at the beginner level, and for good re
 | 下 | 下手, 下りる |
 | 中 | 中国, 中々 |
 
-### N3 (Intermediate) — Unlock Compound Power
+### N3 (Intermediate) - Unlock Compound Power
 
 | Kanji | New compounds at this level |
 |-------|----------------------------|
@@ -426,7 +426,7 @@ These high-productivity kanji are learned at the beginner level, and for good re
 | 新 | 新しい, 新聞, 新年, 新製品 |
 | 化 | 化学, 文化, 変化, 自動化 |
 
-### N2-N1 (Advanced) — The Productive Specialists
+### N2-N1 (Advanced) - The Productive Specialists
 
 | Kanji | Domain | Example advanced compounds |
 |-------|--------|---------------------------|
@@ -484,10 +484,10 @@ Example: 不可能性 (impossibility)
 
 | Source | Description | URL |
 |--------|-------------|-----|
-| Tamaoka & Altmann (2004) — "Symmetry of Japanese Kanji Lexical Productivity" | The foundational study on kanji productivity rankings | [Hiroshima Repository](https://hiroshima.repo.nii.ac.jp/records/2006940) |
-| Tamaoka et al. (2017) — "www.kanjidatabase.com" | The 2,136 kanji database with productivity metrics | [kanjidatabase.com](https://www.kanjidatabase.com) |
-| Tamaoka & Makioka (2004) — "New figures for a Web-accessible database" | Fourth edition with entropy and symmetry metrics | [tamaoka.org](http://tamaoka.org/scholarly/sadokuari/2004/049.pdf) |
-| Amano & Kondo (2000) — "Lexical Characteristics of Japanese Words" (NTT database) | The original lexical corpus used for counting compounds | NTT Database Series |
+| Tamaoka & Altmann (2004) - "Symmetry of Japanese Kanji Lexical Productivity" | The foundational study on kanji productivity rankings | [Hiroshima Repository](https://hiroshima.repo.nii.ac.jp/records/2006940) |
+| Tamaoka et al. (2017) - "www.kanjidatabase.com" | The 2,136 kanji database with productivity metrics | [kanjidatabase.com](https://www.kanjidatabase.com) |
+| Tamaoka & Makioka (2004) - "New figures for a Web-accessible database" | Fourth edition with entropy and symmetry metrics | [tamaoka.org](http://tamaoka.org/scholarly/sadokuari/2004/049.pdf) |
+| Amano & Kondo (2000) - "Lexical Characteristics of Japanese Words" (NTT database) | The original lexical corpus used for counting compounds | NTT Database Series |
 | BCCWJ (Balanced Corpus of Contemporary Written Japanese) | NINJAL's balanced corpus for frequency data | [clrd.ninjal.ac.jp/bccwj](https://clrd.ninjal.ac.jp/bccwj/) |
 | Kanji Frequency Project | Usage frequency across news, Wikipedia, literature | [scriptin.github.io/kanji-frequency](https://scriptin.github.io/kanji-frequency/) |
 | Kanji Alchemy | Compound-focused kanji study system | [kanjialchemy.com](https://www.kanjialchemy.com/kanji-compounds.html) |

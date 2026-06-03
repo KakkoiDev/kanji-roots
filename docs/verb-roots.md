@@ -8,7 +8,7 @@ topic: Japanese multi-functional verbs and compound verbs
 
 # Japanese Multi-Functional Verbs: Compound Verbs & Polysemy
 
-> *Exploring how Japanese verbs — like English "give up / give in / give out" — combine with various elements to produce diverse meanings*
+> *Exploring how Japanese verbs - like English "give up / give in / give out" - combine with various elements to produce diverse meanings*
 
 **Part of the [Roots of Japanese](index.md) project.** See also: [Catalog](kanji-roots-catalog.md) | [The Data](kanji-roots-data.md) | [Sound Roots](sound-roots.md)
 
@@ -20,8 +20,8 @@ In English, "give" changes meaning dramatically depending on the particle that f
 
 Japanese multi-functional verbs appear in **two main forms**:
 
-1. **Compound verbs (複合動詞 / ふくごうどうし)** — "verb + verb" combinations where the second verb functions like an English particle
-2. **Polysemous verbs (多義動詞 / たぎどうし)** — single verbs that radiate multiple meanings from a core concept
+1. **Compound verbs (複合動詞 / ふくごうどうし)** - "verb + verb" combinations where the second verb functions like an English particle
+2. **Polysemous verbs (多義動詞 / たぎどうし)** - single verbs that radiate multiple meanings from a core concept
 
 This article focuses on **the second verb (V2) in compound verbs**, comparing them to English phrasal verbs, and maps out the full system of Japanese multi-functional verbs.
 
@@ -50,7 +50,7 @@ Compound verbs fall into two broad categories:
 | **Syntactic Compound Verbs** | V2 functions as a grammatical auxiliary. Combines freely with almost any V1. V1 can be a suru-verb, passive, or causative | 〜始める (begin), 〜過ぎる (too much), 〜続ける (continue), 〜直す (redo), 〜合う (mutually) |
 | **Lexical Compound Verbs** | V1+V2 combinations are restricted. Meanings are idiomatic and fixed. Must be memorized individually | 思い出す (remember), 落ち着く (calm down), 見積もる (estimate) |
 
-**Syntactic compounds** are the closest Japanese equivalent to English phrasal verbs — the V2 acts like a particle. **Lexical compounds** require more individual study but dramatically expand expressive power once learned.
+**Syntactic compounds** are the closest Japanese equivalent to English phrasal verbs - the V2 acts like a particle. **Lexical compounds** require more individual study but dramatically expand expressive power once learned.
 
 ---
 
@@ -58,7 +58,7 @@ Compound verbs fall into two broad categories:
 
 Just as English uses "up," "in," "out" to modify "give," Japanese uses the following V2 elements to modify V1.
 
-### 2.1 Inception — 始める vs 出す
+### 2.1 Inception - 始める vs 出す
 
 Both mean "start" but with a crucial nuance difference:
 
@@ -82,7 +82,7 @@ Both mean "start" but with a crucial nuance difference:
 | 〜通す | とおす | persist, carry through | carry through | やり通す (see through), 読み通す (read through), 押し通す (push through) |
 | 〜果てる | はてる | completely (extreme state) | utterly (state) | 疲れ果てる (exhausted), 困り果てる (at a complete loss) |
 
-**〜上げる** is a classic example of multi-functionality — it has a literal physical meaning ("look up" = 見上げる) and an aspectual meaning ("write to completion" = 書き上げる).
+**〜上げる** is a classic example of multi-functionality - it has a literal physical meaning ("look up" = 見上げる) and an aspectual meaning ("write to completion" = 書き上げる).
 
 ### 2.3 Reciprocal & Repetitive
 
@@ -92,11 +92,11 @@ Both mean "start" but with a crucial nuance difference:
 | 〜返す | かえす | do back / repeat | 言い返す (talk back), 繰り返す (repeat), 思い返す (reflect) |
 | 〜直す | なおす | redo (to correct) | 書き直す (rewrite), やり直す (redo), 考え直す (reconsider) |
 
-**〜合う** is especially productive — it can also nominalize (話し合い = discussion), replacing a whole "each other" phrase with a single word.
+**〜合う** is especially productive - it can also nominalize (話し合い = discussion), replacing a whole "each other" phrase with a single word.
 
 ### 2.4 Spatial & Movement (the Polymorphic King: 込む)
 
-**〜込む (こむ)** is the most multi-functional V2 in Japanese, with at least 5 distinct meanings — all derived from the core image of **"inward movement"**:
+**〜込む (こむ)** is the most multi-functional V2 in Japanese, with at least 5 distinct meanings - all derived from the core image of **"inward movement"**:
 
 | Meaning Category | Examples | Description |
 |-----------------|----------|-------------|
@@ -106,7 +106,7 @@ Both mean "start" but with a crucial nuance difference:
 | ④ Writing / entering into a container | 書き込む (fill in a form), 打ち込む (type in / devote to) | Putting into a medium |
 | ⑤ Crowding / forcing in | 詰め込む (cram), 割り込む (cut in line) | Forcing into limited space |
 
-This is a textbook example of **cognitive semantic extension** — all five meanings radiate from the prototypical "outside → inside" schema.
+This is a textbook example of **cognitive semantic extension** - all five meanings radiate from the prototypical "outside → inside" schema.
 
 Other spatial V2s:
 
@@ -217,9 +217,9 @@ From physical sight to metaphorical perception:
 
 ## Chapter 4: Single Verbs with Many Meanings (Polysemy)
 
-Beyond compound verbs, many basic Japanese verbs themselves carry multiple related meanings — just like English "give" (donate, produce, bend, utter, etc.). The NINJAL **Basic Verb Handbook** covers **190 polysemous verbs** in detail.
+Beyond compound verbs, many basic Japanese verbs themselves carry multiple related meanings - just like English "give" (donate, produce, bend, utter, etc.). The NINJAL **Basic Verb Handbook** covers **190 polysemous verbs** in detail.
 
-### 4.1 とる (取る・撮る・執る・採る) — "take"
+### 4.1 とる (取る・撮る・執る・採る) - "take"
 
 Prototype: "grasp with the hand"
 
@@ -232,7 +232,7 @@ Prototype: "grasp with the hand"
 7. **Interpret**: 意味を取る (interpret the meaning)
 8. **Take time**: 手間取る (take effort / be time-consuming)
 
-### 4.2 かける — "put/hang/apply"
+### 4.2 かける - "put/hang/apply"
 
 Prototype: "put X onto Y"
 
@@ -243,7 +243,7 @@ Prototype: "put X onto Y"
 5. **Apply burden**: 負担をかける (cause burden), 迷惑をかける (cause trouble), 圧力をかける (apply pressure)
 6. **V2 of compounds**: 浴びせかける (shower upon), 襲いかかる (attack), 呼びかける (appeal to)
 
-### 4.3 はる (張る) — "stretch/spread/apply"
+### 4.3 はる (張る) - "stretch/spread/apply"
 
 Prototype: "spread something flat over a surface"
 
@@ -254,7 +254,7 @@ Prototype: "spread something flat over a surface"
 5. **Harden/freeze**: 道路が張る (the road freezes)
 6. **Compounds**: 張り切る (be eager), 張り合う (compete), 張り込む (stake out)
 
-### 4.4 ぬく (抜く) — "pull out/extract"
+### 4.4 ぬく (抜く) - "pull out/extract"
 
 Prototype: "pull something from inside to outside"
 
@@ -264,7 +264,7 @@ Prototype: "pull something from inside to outside"
 4. **Remove**: 疲れを抜く (relieve fatigue), アクを抜く (remove harshness)
 5. **V2 of compounds**: 戦い抜く (fight through), 考え抜く (think through / thoroughly)
 
-This kind of radial category expansion — where a core meaning extends via metaphor and metonymy — is exactly the same phenomenon as English "give" or "take."
+This kind of radial category expansion - where a core meaning extends via metaphor and metonymy - is exactly the same phenomenon as English "give" or "take."
 
 ---
 
@@ -343,13 +343,13 @@ About two dozen core V2 patterns that function like English particles. V1 is fre
 
 - **Key bases**: 取り〜, 引き〜, 見〜, 受け〜, 立ち〜, 押し〜, 打ち〜, 追い〜
 - **Level**: N2〜N1
-- **English analogy**: Like "give up / give in / give out / give away" — learn the base, then the combinations
+- **English analogy**: Like "give up / give in / give out / give away" - learn the base, then the combinations
 
 ### Layer 3: Polysemous Verbs (Single Verb, Many Meanings)
 ~190 basic verbs with radial category meanings.
 
 - **Key verbs**: とる (take), かける (put/hang), はる (stretch), ぬく (pull out), ながす (flow), もつ (hold)
-- **Level**: Beginner to advanced — ongoing acquisition
+- **Level**: Beginner to advanced - ongoing acquisition
 - **English analogy**: Same as English "give" (donate, produce, bend, utter)
 
 ### Research Resources
