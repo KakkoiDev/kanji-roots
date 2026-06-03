@@ -10,7 +10,7 @@ topic: Deep-dive into kanji productivity with actual database numbers
 
 > *Hard data from the 27,950-compound Kanji Database — which kanji combine with the most partners, and what that means for learning*
 
-**Part of the [Roots of Japanese](index.md) project.** See also: [Catalog](kanji-roots-catalog.md) | [Verb Roots](verb-roots.md)
+**Part of the [Roots of Japanese](index.md) project.** See also: [Catalog](kanji-roots-catalog.md) | [Sound Roots](sound-roots.md) | [Verb Roots](verb-roots.md)
 
 ---
 

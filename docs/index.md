@@ -36,7 +36,8 @@ This project reverse-engineers the system instead. It finds the **most productiv
 
 1. **[Kanji Roots: Catalog](kanji-roots-catalog.md)** - browsable families of the most productive kanji, each mapped to its English-root analogy.
 2. **[Kanji Roots: The Data](kanji-roots-data.md)** - the numbers behind the catalog: productivity counts and left/right position analysis from a 27,950-compound database.
-3. **[Verb Roots](verb-roots.md)** - how Japanese verbs combine, from the polymorphic 〜込む to bases like 取り〜.
+3. **[Kanji Roots: Sound Roots](sound-roots.md)** - the phonetic part inside each character: learn one sound, predict many readings.
+4. **[Verb Roots](verb-roots.md)** - how Japanese verbs combine, from the polymorphic 〜込む to bases like 取り〜.
 
 New to the idea? Read in order. Want a reference? Jump straight to the Catalog.
 

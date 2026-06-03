@@ -10,7 +10,7 @@ topic: Japanese multi-functional verbs and compound verbs
 
 > *Exploring how Japanese verbs — like English "give up / give in / give out" — combine with various elements to produce diverse meanings*
 
-**Part of the [Roots of Japanese](index.md) project.** See also: [Catalog](kanji-roots-catalog.md) | [The Data](kanji-roots-data.md)
+**Part of the [Roots of Japanese](index.md) project.** See also: [Catalog](kanji-roots-catalog.md) | [The Data](kanji-roots-data.md) | [Sound Roots](sound-roots.md)
 
 ---
 

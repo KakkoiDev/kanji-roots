@@ -10,7 +10,7 @@ topic: Most productive kanji in two-character compound words
 
 > *Kanji that behave like Latin/Greek roots — combining with many partners to generate diverse compound words*
 
-**Part of the [Roots of Japanese](index.md) project.** See also: [The Data](kanji-roots-data.md) | [Verb Roots](verb-roots.md)
+**Part of the [Roots of Japanese](index.md) project.** See also: [The Data](kanji-roots-data.md) | [Sound Roots](sound-roots.md) | [Verb Roots](verb-roots.md)
 
 ---
 

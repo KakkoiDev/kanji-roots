@@ -164,7 +164,7 @@ def main():
     for fp in sorted(md_files):
         rel = os.path.relpath(fp, root)
         # Skip landing/index pages
-        if os.path.basename(fp) == 'index.md':
+        if os.path.basename(fp) in ('index.md', 'sound-roots.md'):
             print(f"  SKIP  {rel}")
             continue
         total += 1
