@@ -21,8 +21,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: |
-          pip install mkdocs-material pykakasi mkdocs-ruby-plugin
+        run: pip install -r requirements.txt
 
       - name: Patch mkdocs-ruby-plugin regex (CJK-only matching)
         run: python scripts/patch-ruby-plugin.py

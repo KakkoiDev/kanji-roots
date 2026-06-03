@@ -10,24 +10,7 @@ topic: Deep-dive into kanji productivity with actual database numbers
 
 > *Hard data from the 27,950-compound Kanji Database — which kanji combine with the most partners, and what that means for learning*
 
-**Part of the [Roots of Japanese](index.md) project.** See also: [Project Goal](PROJECT_GOAL.md) | [Kanji Roots Overview](Japanese_Kanji_Productive_Roots.md) | [Verb Compounds](Japanese_MultiFunctional_Verbs.md)
-
----
-
-## Table of Contents
-
-1. [How This Data Was Collected](#how-this-data-was-collected)
-2. [The Top 30 Most Productive Kanji](#the-top-30-most-productive-kanji)
-3. [The Left-Hand vs Right-Hand Split](#the-left-hand-vs-right-hand-split)
-4. [Deep Dive by Kanji Family](#deep-dive-by-kanji-family)
-   - [4.1 Big/Small — 大小](#41-bigsmall--大小)
-   - [4.2 Negation — 不無非未](#42-negation--不無非未)
-   - [4.3 People — 人者子](#43-people--人者子)
-   - [4.4 Abstract Suffixes — 的性化](#44-abstract-suffixes--的性化)
-   - [4.5 Systems — 制体制成](#45-systems--制体制成)
-   - [4.6 Location — 上下中内外](#46-location--上下中内外)
-5. [The Balanced vs Unbalanced Kanji](#the-balanced-vs-unbalanced-kanji)
-6. [Practical Takeaways](#practical-takeaways)
+**Part of the [Roots of Japanese](index.md) project.** See also: [Catalog](kanji-roots-catalog.md) | [Verb Roots](verb-roots.md)
 
 ---
 
@@ -121,20 +104,18 @@ These kanji appear most often as the **second element**:
 |------|-------|-------|------|-----------|-----------------|
 | 1 | **一** | 231 | 19 | **12.2:1** | -unity, -one |
 | 2 | **大** | 228 | 57 | **4.0:1** | -large, -big |
-| 3 | **不** | **161** | 0 | **∞** | un-, in- |
-| 4 | **無** | **153** | 4 | **38.3:1** | -less, non- |
-| 5 | **小** | 149 | 19 | **7.8:1** | -small, -minor |
-| 6 | **同** | 117 | 22 | **5.3:1** | -same, -identical |
-| 7 | **本** | 116 | 61 | 1.9:1 | -origin, -book |
-| 8 | **自** | 108 | 4 | **27:1** | -self |
-| 9 | **内** | 107 | 60 | 1.8:1 | -inside |
-| 10 | **高** | 104 | 32 | **3.3:1** | -high, -expensive |
+| 3 | **小** | 149 | 19 | **7.8:1** | -small, -minor |
+| 4 | **同** | 117 | 22 | **5.3:1** | -same, -identical |
+| 5 | **本** | 116 | 61 | 1.9:1 | -origin, -book |
+| 6 | **自** | 108 | 4 | **27:1** | -self |
+| 7 | **内** | 107 | 60 | 1.8:1 | -inside |
+| 8 | **高** | 104 | 32 | **3.3:1** | -high, -expensive |
+| 9 | **者** | 87 | 1 | **87:1** | -er, -ist |
+| 10 | **性** | 80 | 26 | **3.1:1** | -ity, -ness |
 
-**Critical finding**: **不 (not) has ZERO compounds on the right side** — it is *exclusively* a left-hand (first position) element. This confirms what every textbook teaches: 不 is a prefix-like negator that attaches to the left of another kanji:
-- 不 + 可能 = 不可能 (impossible)
-- 不 + 安 = 不安 (anxiety)
+**The strongest suffixes** are 者 (87 right vs 1 left) and 自 (108 vs 4): they almost never begin a compound. The classic grammatical suffixes 的, 性, and 化 behave the same way (see the family breakdown below).
 
-Similarly, **無** (without) is almost exclusively a prefix — the 153:4 ratio makes it one of the most strongly left-dominant kanji in the database.
+The mirror image is negation. 不 and 無 are the strongest *prefixes* in the database (161 and 153 left-side compounds, with almost none on the right), which is why they sit in the left-dominant list above, not here.
 
 ---
 
@@ -387,4 +368,4 @@ SELECT `Kanji`, `Left Kanji Prod.`, `Right Kanji Prod.` FROM `KanjiTable` WHERE 
 - **Original research**: Tamaoka, K. & Altmann, G. (2004). Symmetry of Japanese Kanji Lexical Productivity on the Left- and Right-hand Sides. *Glottometrics*, 7, 68-87.
 - **SQL queries**: Executed directly against kanjidatabase.com on 2026-06-03.
 
-> **Note on numbers**: This file uses exact counts from the 2017 Kanji Database (newspaper corpus, 2,136 Jōyō kanji). The companion file [`Japanese_Kanji_Productive_Roots.md`](Japanese_Kanji_Productive_Roots.md) uses approximate counts from the 2004 Tamaoka & Altmann study (general corpus, 1,945 kanji). Numbers differ between sources but rankings are consistent. See the [Roots Overview](Japanese_Kanji_Productive_Roots.md#a-note-on-productivity-numbers) for details.
+> **Note on numbers**: every productivity count on this page comes from the 2017 Kanji Database (11-year newspaper corpus, 2,136 Jōyō kanji). The [Catalog](kanji-roots-catalog.md) organizes these same kanji by meaning without repeating the figures, so each number lives in exactly one place.

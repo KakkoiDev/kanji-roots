@@ -10,27 +10,7 @@ topic: Japanese multi-functional verbs and compound verbs
 
 > *Exploring how Japanese verbs — like English "give up / give in / give out" — combine with various elements to produce diverse meanings*
 
-**Part of the [Roots of Japanese](index.md) project.** See also: [Kanji Roots Overview](Japanese_Kanji_Productive_Roots.md) | [Kanji Roots Deep Dive](Kanji_Root_Families_Deep_Dive.md) | [Grammar Unlocks](JAPANESE-UNLOCKS.md) | [日本語版](日本語の多機能動詞.md)
-
----
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Chapter 1: What Are Compound Verbs?](#chapter-1-what-are-compound-verbs)
-   - 1.1 [Basic Structure](#11-basic-structure)
-   - 1.2 [Two Types](#12-two-types)
-3. [Chapter 2: Catalog of Multi-Functional Second Verbs (V2)](#chapter-2-catalog-of-multi-functional-second-verbs-v2)
-   - 2.1 [Inception — 始める vs 出す](#21-inception--はじめる-vs-だす)
-   - 2.2 [Continuation & Completion](#22-continuation--completion)
-   - 2.3 [Reciprocal & Repetitive](#23-reciprocal--repetitive)
-   - 2.4 [Spatial & Movement (the Polymorphic King: 込む)](#24-spatial--movement-the-polymorphic-king-こむ)
-   - 2.5 [Failure & Negation](#25-failure--negation)
-   - 2.6 [Habit & Ability](#26-habit--ability)
-4. [Chapter 3: Multi-Functional First Verbs (V1)](#chapter-3-multi-functional-first-verbs-v1)
-5. [Chapter 4: Single Verbs with Many Meanings (Polysemy)](#chapter-4-single-verbs-with-many-meanings-polysemy)
-6. [Chapter 5: NINJAL's "Compound Verb Lexicon" Classification](#chapter-5-ninjals-compound-verb-lexicon-classification)
-7. [Conclusion](#conclusion-the-big-picture-of-japanese-multi-functional-verbs)
+**Part of the [Roots of Japanese](index.md) project.** See also: [Catalog](kanji-roots-catalog.md) | [The Data](kanji-roots-data.md)
 
 ---
 
@@ -352,7 +332,7 @@ Modern speakers perceive these as a single word, not a composition of two:
 Japanese multi-functional verbs operate on **three layers**. Mastering all three unlocks native-like expressive power:
 
 ### Layer 1: Syntactic Compound Verbs (V2 as Particle)
-~30 V2 patterns that function like English particles. V1 is free.
+About two dozen core V2 patterns that function like English particles. V1 is free.
 
 - **Key patterns**: 〜始める (begin), 〜出す (start suddenly), 〜続ける (continue), 〜終わる (finish), 〜過ぎる (too much), 〜直す (redo), 〜合う (mutually)
 - **Level**: Covers N3 grammar and vocabulary
@@ -382,6 +362,3 @@ Japanese multi-functional verbs operate on **three layers**. Mastering all three
 | Kenkyūsha's Practical Dictionary of Japanese Compound Verbs | 3,547 entries | [kenkyusha.co.jp](https://www.kenkyusha.co.jp/book/b10092040.html) |
 | Japanese Polysemous Verbs (Taishūkan) | 50 verbs analyzed cognitively | [taishukan.co.jp](https://www.taishukan.co.jp/book/b198133.html) |
 
----
-
-> **Next steps**: This article can be expanded into a practical reference guide for learners — with detailed usage notes for each V2 pattern, example sentences, and exercises.

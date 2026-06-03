@@ -8,7 +8,11 @@ docs_dir: docs
 theme:
   name: material
   language: en
+  icon:
+    logo: material/translate
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.sections
     - navigation.expand
     - navigation.top
@@ -24,11 +28,15 @@ theme:
         name: Switch to light/dark mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -66,15 +74,11 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/KakkoiDev/kanji-roots
 
-copyright: Copyright &copy; 2026 — Open reference for Japanese learners
+copyright: Copyright &copy; 2026 The Roots of Japanese
 
 nav:
   - Home: index.md
-  - Project Goal: PROJECT_GOAL.md
   - Kanji Roots:
-      - Overview: Japanese_Kanji_Productive_Roots.md
-      - Deep Dive (Data): Kanji_Root_Families_Deep_Dive.md
-  - Verb System:
-      - Multi-Functional Verbs (EN): Japanese_MultiFunctional_Verbs.md
-      - 多機能動詞 (日本語): 日本語の多機能動詞.md
-  - Grammar Unlocks: JAPANESE-UNLOCKS.md
+      - Catalog: kanji-roots-catalog.md
+      - The Data: kanji-roots-data.md
+  - Verb Roots: verb-roots.md

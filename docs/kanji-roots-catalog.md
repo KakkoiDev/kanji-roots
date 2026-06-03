@@ -10,39 +10,7 @@ topic: Most productive kanji in two-character compound words
 
 > *Kanji that behave like Latin/Greek roots — combining with many partners to generate diverse compound words*
 
-**Part of the [Roots of Japanese](index.md) project.** See also: [Project Goal](PROJECT_GOAL.md) | [Deep Dive with Data](Kanji_Root_Families_Deep_Dive.md) | [Verb Compounds](Japanese_MultiFunctional_Verbs.md)
-
----
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [How Kanji Productivity Works](#how-kanji-productivity-works)
-   - [Left-Hand vs Right-Hand Position](#left-hand-vs-right-hand-position)
-   - [Research Background](#research-background)
-3. [Top 20 Most Productive Kanji (All Positions)](#top-20-most-productive-kanji-all-positions)
-4. [Kanji That Prefer the Left-Hand Position (Prefix-like)](#kanji-that-prefer-the-left-hand-position-prefix-like)
-5. [Kanji That Prefer the Right-Hand Position (Suffix-like)](#kanji-that-prefer-the-right-hand-position-suffix-like)
-6. [Semantic Families of Productive Kanji](#semantic-families-of-productive-kanji)
-   - [6.1 Size, Degree, Status — 大 小 高 低 長 短 多 少](#61-size-degree-status)
-   - [6.2 Negation & Opposition — 不 無 非 反 対 抗](#62-negation--opposition)
-   - [6.3 People & Roles — 人 者 員 家 士 長 手](#63-people--roles)
-   - [6.4 Action & Change — 生 成 変 化 作 制 発 行](#64-action--change)
-   - [6.5 Time & Space — 日 年 月 時 代 世 間 中 外 上 下](#65-time--space)
-   - [6.6 Abstract Relations — 的 性 化 主義](#66-abstract-relations)
-   - [6.7 Society & Systems — 国 社 会 経 済 政 治 法 制](#67-society--systems)
-   - [6.8 Direction & Movement — 出 入 進 退 開 閉 通 過](#68-direction--movement)
-7. [The Most Productive Kanji in Detail](#the-most-productive-kanji-in-detail)
-   - [大 (big) — The Champion of Productivity](#大-big--the-champion-of-productivity)
-   - [不 (not/un-) — The Great Negator](#不-notun---the-great-negator)
-   - [者 (person) — People Suffix](#者-person--the-people-suffix)
-   - [的 (-ic/al) — The Adjectivalizer](#的-ical--the-adjectivalizer)
-   - [生 (life) — Life Force](#生-life--life-force)
-   - [性 (-ity/-ness) — Abstract Quality](#性--ityness--abstract-quality)
-   - [人 (person) — The Universal People Word](#人-person--the-universal-people-word)
-8. [Productivity by JLPT Level](#productivity-by-jlpt-level)
-9. [Practical Application: How to Learn Productive Kanji](#practical-application-how-to-learn-productive-kanji)
-10. [Research Resources](#research-resources)
+**Part of the [Roots of Japanese](index.md) project.** See also: [The Data](kanji-roots-data.md) | [Verb Roots](verb-roots.md)
 
 ---
 
@@ -50,7 +18,7 @@ topic: Most productive kanji in two-character compound words
 
 In English, knowing the Latin root **"struct"** unlocks a whole family of words: **construct, destruct, instruct, structure, infrastructure, reconstruct, obstruction, instructor**. Similarly, **"port"** gives you **report, import, export, transport, support, portable, deport, portfolio**.
 
-**Japanese kanji work exactly the same way.** A single kanji with a core meaning appears as a building block in dozens — sometimes hundreds — of two-kanji compound words (jukugo / 二字熟語). Learning these high-productivity kanij is like getting a master key to the Japanese lexicon.
+**Japanese kanji work exactly the same way.** A single kanji with a core meaning appears as a building block in dozens, sometimes hundreds, of two-kanji compound words (jukugo / 二字熟語). Learning these high-productivity kanji is like getting a master key to the Japanese lexicon.
 
 This guide ranks and categorizes the most **"multi-functional" kanji** — the ones that combine with the most partners to form the most compound words.
 
@@ -76,39 +44,26 @@ Research by Tamaoka & Altmann (2004) shows that:
 
 The authoritative study on this topic is **Tamaoka & Altmann (2004) "Symmetry of Japanese Kanji Lexical Productivity on the Left- and Right-hand Sides"** (Glottometrics, 7, 68-87). Using a corpus of 1,945 basic kanji, they counted how many unique two-kanji compound words each kanji participates in.
 
-Key finding: The kanji **大 (big / だい)** is the single most productive kanji overall, appearing in **469 unique compounds** (70 on the left, 399 on the right).
+Key finding: the kanji **大 (big / だい)** is the single most productive kanji overall.
 
-The **Kanji Database** (kanjidatabase.com) by Tamaoka, Makioka, Sanders & Verdonschot (2017) extends this to 2,136 Jōyō kanji using 11 years of Mainichi Newspaper data.
+The **Kanji Database** (kanjidatabase.com) by Tamaoka, Makioka, Sanders & Verdonschot (2017) extends this to 2,136 Jōyō kanji using 11 years of Mainichi Newspaper data. **This project uses the 2017 database for every productivity number** (see [The Data](kanji-roots-data.md)); this catalog stays qualitative and organizes those kanji by meaning.
 
 ---
 
-## Top 20 Most Productive Kanji (All Positions)
+## A Note on Numbers
 
-Based on the academic research, these are the kanji that appear in the highest number of unique two-kanji compound words. They are your **highest-leverage characters** to learn.
+This catalog is **qualitative**: it groups the most productive kanji by meaning and maps each to an English root, so you can learn them in families. For the ranked list with **exact productivity counts and left/right position data**, see **[The Data](kanji-roots-data.md)**. Every number there comes from the 2017 Kanji Database, so the figures stay consistent across the whole project.
 
-| Rank | Kanji | Core Meaning | Approx. # of Compounds | English Analogy |
-|------|-------|-------------|----------------------|-----------------|
-| 1 | **大** | big, great, large | ~469 | "macro- / mega-" |
-| 2 | **不** | not, un- | ~350+ | "un- / in- / dis-" |
-| 3 | **者** | person | ~300+ | "-er / -ist / -ian" |
-| 4 | **的** | target, -ic/al | ~280+ | "-ic / -al / -ive" |
-| 5 | **人** | person, people | ~260+ | "person / -er" |
-| 6 | **生** | life, birth | ~250+ | "bio- / -life" |
-| 7 | **会** | meet, society | ~230+ | "socio- / -conference" |
-| 8 | **日** | day, sun | ~220+ | "day / sun / -day" |
-| 9 | **年** | year | ~210+ | "annual / year" |
-| 10 | **出** | exit, put out | ~200+ | "ex- / out- / emit" |
-| 11 | **性** | nature, gender, -ity | ~200+ | "-ity / -ness" |
-| 12 | **事** | thing, matter | ~190+ | "thing / affair" |
-| 14 | **自** | self | ~180+ | "auto- / self-" |
-| 15 | **上** | up, above | ~170+ | "up- / upper / over-" |
-| 16 | **下** | down, below | ~170+ | "down- / under- / sub-" |
-| 17 | **新** | new | ~160+ | "neo- / new" |
-| 18 | **本** | book, origin | ~150+ | "main / original / book" |
-| 19 | **中** | middle, in | ~150+ | "mid- / intra- / in-" |
-| 20 | **外** | outside | ~140+ | "exo- / extra- / out-" |
+## Bound Roots vs Free Words
 
-> **Note**: Exact compound counts vary by corpus. The numbers above are approximate from multiple studies. The rankings are more stable than the exact counts.
+English roots like *struct* and *port* are **bound**: they never stand alone as words. Some Japanese kanji are exactly like that; others are full words that also happen to compound. The difference changes how you use them.
+
+| Type | Example kanji | How to treat it |
+|------|---------------|-----------------|
+| **Bound affix** (cannot stand alone) | 不, 無, 非, 未, 的, 性, 化, 者, 員, 士 | A pure root. You will only ever meet it inside a compound. Learn it as "un-", "-ity", "-er", and so on. |
+| **Free word** (also stands alone) | 大, 人, 生, 出, 国, 日, 年, 水, 手 | A word in its own right *and* a root. Use it alone (人 = person) and recognize it inside compounds. |
+
+When a kanji is a bound affix, never try to use it as a standalone word. When it is a free word, the compound is built from two real words.
 
 ---
 
@@ -182,7 +137,7 @@ These kanji typically appear as the **second element**, modifying or categorizin
 | **非** | not, anti- | non-, anti- | 非常(emergency), 非公開(not public), 非人道的(inhumane) |
 | **未** | not yet | un-, pre- | 未来(future), 未成年(underage), 未定(undecided) |
 | **反** | anti-, opposite | anti-, counter- | 反対(opposition), 反応(reaction), 反省(reflection) |
-| **対** | opposite, versus | contra-, counter- | 対立(confrontation), 对比(contrast), 対応(correspondence) |
+| **対** | opposite, versus | contra-, counter- | 対立(confrontation), 対比(contrast), 対応(correspondence) |
 | **抗** | resist, fight | anti-, counter- | 反抗(rebellion), 抵抗(resistance), 抗菌(antibacterial) |
 
 ### 6.3 People & Roles
@@ -268,9 +223,7 @@ These kanji typically appear as the **second element**, modifying or categorizin
 
 ### 大 (big) — The Champion of Productivity
 
-**Approx. 469 compounds** (70 left-hand + 399 right-hand)
-
-**Position**: Productive on **both sides**, but extremely dominant on the **right-hand**.
+**Position**: productive on both sides, but strongly dominant on the right-hand side.
 
 The core meaning "big" extends metaphorically to "great, important, large-scale, extensive."
 
@@ -300,7 +253,7 @@ The core meaning "big" extends metaphorically to "great, important, large-scale,
 
 ### 不 (not/un-) — The Great Negator
 
-**Approx. 350+ compounds**, almost exclusively on the **left-hand side**.
+Almost exclusively on the **left-hand side** (a prefix).
 
 The most productive negation prefix in Japanese. Attaches freely to nouns, na-adjectives, and verbs.
 
@@ -323,7 +276,7 @@ The most productive negation prefix in Japanese. Attaches freely to nouns, na-ad
 
 ### 者 (person) — The People Suffix
 
-**Approx. 300+ compounds**, on the **right-hand side**.
+On the **right-hand side** (a suffix).
 
 The go-to suffix for creating "person who does X" or "person characterized by X."
 
@@ -346,7 +299,7 @@ The go-to suffix for creating "person who does X" or "person characterized by X.
 
 ### 的 (-ic/al) — The Adjectivalizer
 
-**Approx. 280+ compounds**, on the **right-hand side**.
+On the **right-hand side** (a suffix).
 
 This kanji originally means "target/bullseye" but is overwhelmingly used as an adjectival suffix, equivalent to "-ic" or "-al" in English. Attaches to Sino-Japanese nouns to create na-adjectives.
 
@@ -369,7 +322,7 @@ This kanji originally means "target/bullseye" but is overwhelmingly used as an a
 
 ### 生 (life) — Life Force
 
-**Approx. 250+ compounds**, productive on **both sides**.
+Productive on **both sides**.
 
 One of the most versatile kanji spanning life, birth, living, raw, and learning.
 
@@ -387,8 +340,6 @@ One of the most versatile kanji spanning life, birth, living, raw, and learning.
 - 衛生 (hygiene — guard + life)
 - 一生 (whole life — one + life)
 - 誕生 (birth — be born + life)
-- 留学 (study abroad — flow + study)
-- 生活 (living — life + activity)
 
 **English analogy**: "bio- / -life / -genesis"
 
@@ -396,7 +347,7 @@ One of the most versatile kanji spanning life, birth, living, raw, and learning.
 
 ### 性 (-ity/-ness) — Abstract Quality
 
-**Approx. 200+ compounds**, on the **right-hand side**.
+On the **right-hand side** (a suffix).
 
 Creates abstract nouns expressing quality, nature, or property. Equivalent to "-ity," "-ness," or "-ence" in English.
 
@@ -418,7 +369,7 @@ Creates abstract nouns expressing quality, nature, or property. Equivalent to "-
 
 ### 人 (person) — The Universal People Word
 
-**Approx. 260+ compounds**, productive on **both sides**.
+Productive on **both sides**.
 
 The basic word for person. On the right-hand side, it creates nationality and role words.
 
@@ -543,14 +494,8 @@ Example: 不可能性 (impossibility)
 
 ---
 
-## A Note on Productivity Numbers
+## Where the Numbers Live
 
-This file uses approximate compound counts (~) from Tamaoka & Altmann (2004), which analyzed 1,945 basic kanji from a general Japanese corpus. The companion file [Kanji_Root_Families_Deep_Dive.md](Kanji_Root_Families_Deep_Dive.md) uses exact counts from the 2017 Kanji Database (2,136 Jōyō kanji, 11 years of Mainichi Newspaper data). Numbers differ because:
-
-- **Different corpora**: general language vs. newspaper-only
-- **Different kanji sets**: 1,945 vs. 2,136
-- **Different eras**: 2004 data vs. 2017 data
-
-Both sources agree on the *rankings* — which kanji are most productive — even when exact counts differ. For the most up-to-date numbers, see the [Deep Dive](Kanji_Root_Families_Deep_Dive.md).
+This catalog stays qualitative on purpose. All productivity counts and left/right position data live in **[The Data](kanji-roots-data.md)**, drawn entirely from the 2017 Kanji Database so the figures are consistent everywhere on this site.
 
 > **Key takeaway**: Knowing just the **top 20 most productive kanji** unlocks thousands of compound words. Each one is a root in the Japanese lexicon, just like "struct" or "port" in English. Learn them as root families, not isolated characters.

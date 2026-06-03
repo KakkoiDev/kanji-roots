@@ -23,6 +23,22 @@ _kks = pykakasi.kakasi()
 RE_KANJI = re.compile(r'[\u4e00-\u9fff\u3400-\u4dbf]+')
 
 
+def _is_hiragana(ch: str) -> bool:
+    return bool(ch) and '\u3040' <= ch <= '\u309f'
+
+
+# Forced readings for single kanji shown as roots. pykakasi reads an isolated
+# kanji with a context-free reading that is often wrong for this project's
+# "kanji as compound root" framing (e.g. \u751f alone -> \u306a\u307e "raw" not \u305b\u3044 "life").
+OVERRIDES = {
+    '\u751f': '\u305b\u3044',
+    '\u884c': '\u3053\u3046',
+    '\u5206': '\u3076\u3093',
+    '\u8005': '\u3057\u3083',
+    '\u4eba': '\u3072\u3068',
+}
+
+
 def _furiganize(text: str) -> str:
     """Add furigana to bare kanji in *text*, skipping already-annotated runs."""
 
@@ -34,7 +50,17 @@ def _furiganize(text: str) -> str:
         if rest.startswith('(') and ')' in rest[:15]:
             return kanji
 
-        # ── Generate reading via pykakasi ───────────────────────────────────
+        # single kanji: the reading is context-dependent, so handle with care
+        if len(kanji) == 1:
+            nxt = text[m.end():m.end() + 1]
+            # followed by okurigana (生きる, 行く): the kun reading varies,
+            # so leave it bare rather than guess a wrong reading
+            if _is_hiragana(nxt):
+                return kanji
+            if kanji in OVERRIDES:
+                return f'{kanji}({OVERRIDES[kanji]})'
+
+        # generate reading via pykakasi
         try:
             items = _kks.convert(kanji)
             reading = ''.join(it['hira'] for it in items)
@@ -94,6 +120,11 @@ def process_file(path: str) -> bool:
             out.append(line)
             continue
 
+        # Skip headings: keep them clean and avoid shifting auto-generated anchors
+        if stripped.startswith('#'):
+            out.append(line)
+            continue
+
         # ── Process: inline-code & markdown-link-aware line furiganization ──
         # Tokenize by backticks (inline code) and markdown links [text](url)
         pattern = r'(`[^`]*`|\[[^]]+\]\([^)]+\))'
@@ -133,7 +164,7 @@ def main():
     for fp in sorted(md_files):
         rel = os.path.relpath(fp, root)
         # Skip landing/index pages
-        if os.path.basename(fp) in ('index.md', 'PROJECT_GOAL.md'):
+        if os.path.basename(fp) == 'index.md':
             print(f"  SKIP  {rel}")
             continue
         total += 1

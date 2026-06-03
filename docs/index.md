@@ -1,74 +1,50 @@
 # The Roots of Japanese
 
-> Mapping Japanese as a system of combinable building blocks — like Latin and Greek roots in English.
+> Learn Japanese vocabulary the way English speakers learn from Latin roots: by the building blocks, not one word at a time.
 
 ---
 
-## What This Is
+## The idea
 
-A reference project that reverse-engineers how Japanese characters and verbs combine to form compound words. Instead of memorizing words one by one, learn the **roots** that unlock whole families.
+In English, one Latin or Greek root unlocks a whole family of words:
 
-## Files
+| Root | Meaning | Words it unlocks |
+|------|---------|------------------|
+| **struct** | build | construct, structure, instruct, infrastructure, obstruction |
+| **port** | carry | import, export, transport, support, portable |
 
-| File | What it covers | Start here if you want... |
-|------|---------------|--------------------------|
-| **[PROJECT_GOAL.md](PROJECT_GOAL.md)** | The vision, the analogy, the two systems | ...the big picture |
-| **[Japanese_Kanji_Productive_Roots.md](Japanese_Kanji_Productive_Roots.md)** | ~50 most productive kanji, organized by semantic family with English root analogies | ...a browsable catalog of kanji roots |
-| **[Kanji_Root_Families_Deep_Dive.md](Kanji_Root_Families_Deep_Dive.md)** | Exact productivity numbers from the 27,950-compound database, left/right position analysis | ...hard data and position analysis |
-| **[Japanese_MultiFunctional_Verbs.md](Japanese_MultiFunctional_Verbs.md)** | Compound verb system: ~30 V2 patterns (like English particles) + ~20 V1 bases | ...how verbs combine |
-| **[日本語の多機能動詞.md](日本語の多機能動詞.md)** | Same verb content in Japanese (国内向け) | ...reading in Japanese |
-| **[JAPANESE-UNLOCKS.md](JAPANESE-UNLOCKS.md)** | Grammar acquisition guide: が-core, は/が, transitivity, aspect — the structural unlocks | ...grammar foundations (separate from roots) |
+Japanese works the same way. A single kanji is a root that combines with other kanji to generate families of compound words. Learn the root, and you can read (and eventually guess) compounds you have never seen before.
 
----
-
-## Quick Start
-
-1. Read [PROJECT_GOAL.md](PROJECT_GOAL.md) — understand the analogy
-2. Browse [Japanese_Kanji_Productive_Roots.md](Japanese_Kanji_Productive_Roots.md) — see the root catalog
-3. Dive into [Kanji_Root_Families_Deep_Dive.md](Kanji_Root_Families_Deep_Dive.md) — see the data
-4. Explore [Japanese_MultiFunctional_Verbs.md](Japanese_MultiFunctional_Verbs.md) — the verb system
-5. Optionally read [JAPANESE-UNLOCKS.md](JAPANESE-UNLOCKS.md) — grammar foundations
-
----
-
-## The Two Systems
-
-### System 1: Kanji Roots (Nouns & Concepts)
-One kanji + many partners = many compound words. Like Latin/Greek roots.
-
-| Japanese Root | English Analogy | Compounds |
-|--------------|----------------|-----------|
-| **大** (big) | macro-, mega- | 大学, 最大, 拡大, 巨大, 大使, 大事 |
+| Kanji root | Like | Unlocks |
+|------------|------|---------|
 | **不** (not) | un-, in-, dis- | 不安, 不便, 不可能, 不満, 不正 |
-| **人** (person) | -an, -ian | 日本人, 外国人, 詩人, 商人, 証人 |
-| **生** (life) | bio-, -genesis | 生活, 生産, 生命, 学生, 先生, 誕生 |
-| **出** (exit) | ex-, out- | 出口, 出発, 出現, 出版, 輸出 |
+| **者** (person) | -er, -ist | 医者, 科学者, 記者, 読者, 労働者 |
+| **生** (life) | bio-, -genesis | 生活, 生産, 生命, 学生, 先生 |
 
-### System 2: Verb Compounds (Actions & Aspects)
-One verb core + many "particle" verbs = many nuanced actions. Like English phrasal verbs.
+## Why this exists
 
-| Japanese Verb Root | English Analogy | Compounds |
-|-------------------|----------------|-----------|
-| **取り〜** (take) | "take" base | 取り上げる, 取り入れる, 取り消す, 取り組む, 取り戻す |
-| **〜込む** (into) | "in/into" particle | 飛び込む, 考え込む, 飲み込む, 書き込む, 詰め込む |
-| **〜出す** (out) | "out" particle | 泣き出す, 走り出す, 飛び出す, 思い出す |
-| **〜始める** (start) | "start" auxiliary | 食べ始める, 歩き始める, 降り始める |
-| **〜合う** (each other) | "each other" | 話し合う, 助け合う, 愛し合う |
+The usual way to study is one kanji, then one compound, then another, like memorizing *construct*, *instruct*, and *structure* without ever noticing they share *struct*. Every word becomes a separate task.
 
----
+This project reverse-engineers the system instead. It finds the **most productive kanji** (the ones that appear in the most compound words) and maps how they behave: which position they prefer, how many words they unlock, and which English root they mirror.
 
-## Research Sources
+## The two systems
 
-- **Tamaoka & Altmann (2004)** — foundational productivity study (1,945 kanji)
-- **Tamaoka et al. (2017)** — [kanjidatabase.com](https://www.kanjidatabase.com) (2,136 Jōyō, 27,950 compounds)
-- **NINJAL Compound Verb Lexicon** — [vvlexicon.ninjal.ac.jp](https://vvlexicon.ninjal.ac.jp/en/)
-- **NINJAL Basic Verb Handbook** — [www2.ninjal.ac.jp/verbhandbook](https://www2.ninjal.ac.jp/verbhandbook/)
+1. **Kanji roots** (nouns and concepts) - one kanji plus many partners makes many compound words. Like Latin and Greek roots.
+2. **Verb roots** (actions and aspects) - one verb core plus many "particle" verbs makes many nuanced actions. Like English phrasal verbs (give up / give in / give out).
 
-## Status
+## Start here
 
-| System | Status |
-|--------|--------|
-| Kanji Roots (overview) | ✅ Complete |
-| Kanji Roots (deep dive) | ✅ Complete |
-| Verb Compounds | ✅ Complete |
-| Grammar Unlocks | ✅ Complete |
+1. **[Kanji Roots: Catalog](kanji-roots-catalog.md)** - browsable families of the most productive kanji, each mapped to its English-root analogy.
+2. **[Kanji Roots: The Data](kanji-roots-data.md)** - the numbers behind the catalog: productivity counts and left/right position analysis from a 27,950-compound database.
+3. **[Verb Roots](verb-roots.md)** - how Japanese verbs combine, from the polymorphic 〜込む to bases like 取り〜.
+
+New to the idea? Read in order. Want a reference? Jump straight to the Catalog.
+
+## Sources
+
+All productivity numbers on this site come from one dataset, for consistency:
+
+- **Tamaoka et al. (2017)** - [kanjidatabase.com](https://www.kanjidatabase.com) (2,136 Jōyō kanji, 27,950 two-kanji compounds from an 11-year newspaper corpus). The source of every number here.
+- **Tamaoka & Altmann (2004)** - the foundational study on kanji productivity, cited for historical context.
+- **NINJAL Compound Verb Lexicon** - [vvlexicon.ninjal.ac.jp](https://vvlexicon.ninjal.ac.jp/en/) (2,700+ compound verbs).
+- **NINJAL Basic Verb Handbook** - [www2.ninjal.ac.jp/verbhandbook](https://www2.ninjal.ac.jp/verbhandbook/) (190 polysemous verbs).

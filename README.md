@@ -1,77 +1,40 @@
 # The Roots of Japanese
 
-> Mapping Japanese as a system of combinable building blocks — like Latin and Greek roots in English.
+> Learn Japanese vocabulary by its building blocks, the way English speakers learn from Latin roots.
 
-📖 **Read online:** [KakkoiDev.github.io/kanji-roots](https://KakkoiDev.github.io/kanji-roots)
+**Read it online: [KakkoiDev.github.io/kanji-roots](https://KakkoiDev.github.io/kanji-roots)**
 
----
+A reference site that maps the most productive Japanese kanji and compound verbs as reusable "roots," each tied to its English-root analogy. Built with [MkDocs](https://www.mkdocs.org/) and the [Material](https://squidfunk.github.io/mkdocs-material/) theme.
 
-## What This Is
+## Contents
 
-A reference project that reverse-engineers how Japanese characters and verbs combine to form compound words. Instead of memorizing words one by one, learn the **roots** that unlock whole families.
+| Page | What it covers |
+|------|----------------|
+| Home | The idea, the two systems, where to start |
+| Kanji Roots: Catalog | Productive kanji grouped by meaning, with English-root analogies |
+| Kanji Roots: The Data | Productivity counts and left/right position analysis (2017 Kanji Database) |
+| Verb Roots | The compound-verb system: V2 patterns and V1 bases |
 
-## Files
+All productivity numbers come from a single source (the 2017 Kanji Database) so figures stay consistent across the site.
 
-| File | What it covers | Start here if you want... |
-|------|---------------|--------------------------|
-| **[PROJECT_GOAL.md](docs/PROJECT_GOAL.md)** | The vision, the analogy, the two systems | ...the big picture |
-| **[Japanese_Kanji_Productive_Roots.md](docs/Japanese_Kanji_Productive_Roots.md)** | ~50 most productive kanji, organized by semantic family with English root analogies | ...a browsable catalog of kanji roots |
-| **[Kanji_Root_Families_Deep_Dive.md](docs/Kanji_Root_Families_Deep_Dive.md)** | Exact productivity numbers from the 27,950-compound database, left/right position analysis | ...hard data and position analysis |
-| **[Japanese_MultiFunctional_Verbs.md](docs/Japanese_MultiFunctional_Verbs.md)** | Compound verb system: ~30 V2 patterns (like English particles) + ~20 V1 bases | ...how verbs combine |
-| **[日本語の多機能動詞.md](docs/日本語の多機能動詞.md)** | Same verb content in Japanese (国内向け) | ...reading in Japanese |
-| **[JAPANESE-UNLOCKS.md](docs/JAPANESE-UNLOCKS.md)** | Grammar acquisition guide: が-core, は/が, transitivity, aspect — the structural unlocks | ...grammar foundations (separate from roots) |
+## Build locally
 
-## The Two Systems
-
-### System 1: Kanji Roots (Nouns & Concepts)
-One kanji + many partners = many compound words. Like Latin/Greek roots.
-
-```
-大 (big) → 大学, 最大, 拡大, 巨大, 大使, 大事
-不 (not)  → 不安, 不便, 不可能, 不満, 不正
-者 (person)→ 医者, 科学者, 記者, 読者, 労働者
+```sh
+python -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+mkdocs serve          # quick preview (no furigana)
 ```
 
-→ Start with [PROJECT_GOAL.md](docs/PROJECT_GOAL.md), then [Japanese_Kanji_Productive_Roots.md](docs/Japanese_Kanji_Productive_Roots.md)
+Furigana is generated at build time, not committed, so the source markdown stays clean. To preview with furigana exactly as CI builds it:
 
-### System 2: Verb Compounds (Actions & Aspects)
-One verb core + many "particle" verbs = many nuanced actions. Like English phrasal verbs.
-
-```
-取り〜 (take) → 取り上げる, 取り消す, 取り組む, 取り戻す
-〜込む (into)  → 飛び込む, 考え込む, 飲み込む, 書き込む
-〜出す (out)   → 泣き出す, 走り出す, 飛び出す, 思い出す
+```sh
+python scripts/patch-ruby-plugin.py    # restrict furigana matching to CJK
+python scripts/add-furigana.py docs/   # edits docs/ in place - run `git checkout docs/` afterwards
+mkdocs build
 ```
 
-→ [Japanese_MultiFunctional_Verbs.md](docs/Japanese_MultiFunctional_Verbs.md)
+The `archive/` directory holds earlier material (a grammar guide and a Japanese-language verb file) kept out of the published site.
 
-### Supplementary: Grammar Unlocks
-Not about roots, but about the structural insights that make Japanese parse correctly: が-core, topic-comment, head-final order, transitivity, aspect over tense.
+## License
 
-→ [JAPANESE-UNLOCKS.md](docs/JAPANESE-UNLOCKS.md)
-
----
-
-## Quick Start
-
-1. Read [PROJECT_GOAL.md](docs/PROJECT_GOAL.md) — understand the analogy
-2. Browse [Japanese_Kanji_Productive_Roots.md](docs/Japanese_Kanji_Productive_Roots.md) — see the root catalog
-3. Dive into [Kanji_Root_Families_Deep_Dive.md](docs/Kanji_Root_Families_Deep_Dive.md) — see the data
-4. Explore [Japanese_MultiFunctional_Verbs.md](docs/Japanese_MultiFunctional_Verbs.md) — the verb system
-5. Optionally read [JAPANESE-UNLOCKS.md](docs/JAPANESE-UNLOCKS.md) — grammar foundations
-
-## Research Sources
-
-- **Tamaoka & Altmann (2004)** — foundational productivity study (1,945 kanji)
-- **Tamaoka et al. (2017)** — [kanjidatabase.com](https://www.kanjidatabase.com) (2,136 Jōyō, 27,950 compounds)
-- **NINJAL Compound Verb Lexicon** — [vvlexicon.ninjal.ac.jp](https://vvlexicon.ninjal.ac.jp/en/)
-- **NINJAL Basic Verb Handbook** — [www2.ninjal.ac.jp/verbhandbook](https://www2.ninjal.ac.jp/verbhandbook/)
-
-## Status
-
-| System | Status |
-|--------|--------|
-| Kanji Roots (overview) | ✅ Complete |
-| Kanji Roots (deep dive) | ✅ Complete |
-| Verb Compounds | ✅ Complete |
-| Grammar Unlocks | ✅ Complete |
+Documentation (`docs/`) is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); code is under MIT. See [LICENSE](LICENSE).
