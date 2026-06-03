@@ -1,0 +1,64 @@
+site_name: The Roots of Japanese
+site_description: Japanese as a system of combinable roots — like Latin and Greek in English
+site_url: https://KakkoiDev.github.io/kanji-roots
+repo_url: https://github.com/KakkoiDev/kanji-roots
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - header.autohide
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light/dark mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/KakkoiDev/kanji-roots
+
+copyright: Copyright &copy; 2026 — Open reference for Japanese learners
+
+nav:
+  - Home: index.md
+  - Project Goal: PROJECT_GOAL.md
+  - Kanji Roots:
+      - Overview: Japanese_Kanji_Productive_Roots.md
+      - Deep Dive (Data): Kanji_Root_Families_Deep_Dive.md
+  - Verb System:
+      - Multi-Functional Verbs (EN): Japanese_MultiFunctional_Verbs.md
+      - 多機能動詞 (日本語): 日本語の多機能動詞.md
+  - Grammar Unlocks: JAPANESE-UNLOCKS.md
