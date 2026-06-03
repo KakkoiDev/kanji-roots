@@ -20,12 +20,12 @@ topic: Deep-dive into kanji productivity with actual database numbers
 2. [The Top 30 Most Productive Kanji](#the-top-30-most-productive-kanji)
 3. [The Left-Hand vs Right-Hand Split](#the-left-hand-vs-right-hand-split)
 4. [Deep Dive by Kanji Family](#deep-dive-by-kanji-family)
-   - [4.1 Big/Small — {大小(だいしょう)}](#41-bigsmall--{大小(だいしょう)})
-   - [4.2 Negation — {不無非未(ふむひひつじ)}](#42-negation--{不無非未(ふむひひつじ)})
-   - [4.3 People — {人者子(にんものこ)}](#43-people--{人者子(にんものこ)})
-   - [4.4 Abstract Suffixes — {的性化(てきせいか)}](#44-abstract-suffixes--{的性化(てきせいか)})
-   - [4.5 Systems — {制体制成(せいたいせいせい)}](#45-systems--{制体制成(せいたいせいせい)})
-   - [4.6 Location — {上下中内外(じょうげなかうちそと)}](#46-location--{上下中内外(じょうげなかうちそと)})
+   - [4.1 Big/Small — 大小](#41-bigsmall--大小)
+   - [4.2 Negation — 不無非未](#42-negation--不無非未)
+   - [4.3 People — 人者子](#43-people--人者子)
+   - [4.4 Abstract Suffixes — 的性化](#44-abstract-suffixes--的性化)
+   - [4.5 Systems — 制体制成](#45-systems--制体制成)
+   - [4.6 Location — 上下中内外](#46-location--上下中内外)
 5. [The Balanced vs Unbalanced Kanji](#the-balanced-vs-unbalanced-kanji)
 6. [Practical Takeaways](#practical-takeaways)
 
@@ -111,7 +111,7 @@ These kanji appear most often as the **first element** of a compound:
 | 9 | **道** | 109 | 25 | **4.4:1** | path-, via- |
 | 10 | **目** | 109 | 44 | 2.5:1 | eye-, view- |
 
-**子(こ)** (child) and **事(こと)** (thing) are extremely left-dominant — they hardly ever appear as the second element.
+**子** (child) and **事** (thing) are extremely left-dominant — they hardly ever appear as the second element.
 
 ### The Most "Suffix-like" (Right-Dominant)
 
@@ -130,11 +130,11 @@ These kanji appear most often as the **second element**:
 | 9 | **内** | 107 | 60 | 1.8:1 | -inside |
 | 10 | **高** | 104 | 32 | **3.3:1** | -high, -expensive |
 
-**Critical finding**: **不(ふ) (not) has ZERO compounds on the right side** — it is *exclusively* a left-hand (first position) element. This confirms what every textbook teaches: 不(ふ) is a prefix-like negator that attaches to the left of another kanji:
-- 不(ふ) + {可能(かのう)} = {不可能(ふかのう)} (impossible)
-- 不(ふ) + 安(あん) = {不安(ふあん)} (anxiety)
+**Critical finding**: **不 (not) has ZERO compounds on the right side** — it is *exclusively* a left-hand (first position) element. This confirms what every textbook teaches: 不 is a prefix-like negator that attaches to the left of another kanji:
+- 不 + 可能 = 不可能 (impossible)
+- 不 + 安 = 不安 (anxiety)
 
-Similarly, **無(む)** (without) is almost exclusively a prefix — the 153:4 ratio makes it one of the most strongly left-dominant kanji in the database.
+Similarly, **無** (without) is almost exclusively a prefix — the 153:4 ratio makes it one of the most strongly left-dominant kanji in the database.
 
 ---
 
@@ -147,28 +147,28 @@ Similarly, **無(む)** (without) is almost exclusively a prefix — the 153:4 r
 | **大** | big | 57 | **228** | 285 | Strongly Right |
 | **小** | small | 19 | **149** | 168 | Strongly Right |
 
-**大(だい)** is the #1 overall by total compounds. It's extremely productive on the **right** side:
+**大** is the #1 overall by total compounds. It's extremely productive on the **right** side:
 
-**大(だい) on the right** (like a suffix):
-- {最大(さいだい)} (maximum — most big)
-- {拡大(かくだい)} (expansion — spread big)
-- {巨大(きょだい)} (huge — giant big)
-- {強大(きょうだい)} (powerful — strong big)
-- {壮大(そうだい)} (grand — majestic big)
-- {重大(じゅうだい)} (serious — heavy big)
-- {絶大(ぜつだい)} (enormous — extreme big)
+**大 on the right** (like a suffix):
+- 最大 (maximum — most big)
+- 拡大 (expansion — spread big)
+- 巨大 (huge — giant big)
+- 強大 (powerful — strong big)
+- 壮大 (grand — majestic big)
+- 重大 (serious — heavy big)
+- 絶大 (enormous — extreme big)
 
-**大(だい) on the left** (like a prefix):
-- {大学(だいがく)} (university — big study)
-- {大事(だいじ)} (important — big matter)
-- {大部分(だいぶぶん)} (most part — big portion)
-- {大使(たいし)} (ambassador — big envoy)
+**大 on the left** (like a prefix):
+- 大学 (university — big study)
+- 大事 (important — big matter)
+- 大部分 (most part — big portion)
+- 大使 (ambassador — big envoy)
 
-**小(しょう) on the right**:
-- {最小(さいしょう)} (minimum — most small)
-- {縮小(しゅくしょう)} (shrink — contract small)
-- {微小(びしょう)} (tiny — minute small)
-- {弱小(じゃくしょう)} (weak — weak small)
+**小 on the right**:
+- 最小 (minimum — most small)
+- 縮小 (shrink — contract small)
+- 微小 (tiny — minute small)
+- 弱小 (weak — weak small)
 
 ### 4.2 Negation — 不無非未
 
@@ -181,26 +181,26 @@ Similarly, **無(む)** (without) is almost exclusively a prefix — the 153:4 r
 
 All four negation kanji are **left-side** (prefix-like) elements — they attach to the beginning of a compound to negate or modify it:
 
-- **不(ふ)** + {可能(かのう)} = {不可能(ふかのう)} (impossible)
-- **無(む)** + 料(りょう) = {無料(むりょう)} (free, without charge)
-- **非(ひ)** + {公開(こうかい)} = {非公開(ひこうかい)} (not public)
-- **未(ひつじ)** + 来(らい) = {未来(みらい)} (future, not yet come)
+- **不** + 可能 = 不可能 (impossible)
+- **無** + 料 = 無料 (free, without charge)
+- **非** + 公開 = 非公開 (not public)
+- **未** + 来 = 未来 (future, not yet come)
 
-**不(ふ) compounds** (不(ふ) in FIRST position):
-- {不安(ふあん)} (anxiety — not + peaceful)
-- {不便(ふべん)} (inconvenient — not + convenient)
-- {不満(ふまん)} (dissatisfaction — not + full)
-- {不可能(ふかのう)} (impossible — not + possible)
-- {不正(ふせい)} (injustice — not + correct)
-- {不十分(ふじゅうぶん)} (insufficient — not + enough)
-- {不注意(ふちゅうい)} (careless — not + careful)
-- {不意(ふい)} (unexpected — not + intentional)
+**不 compounds** (不 in FIRST position):
+- 不安 (anxiety — not + peaceful)
+- 不便 (inconvenient — not + convenient)
+- 不満 (dissatisfaction — not + full)
+- 不可能 (impossible — not + possible)
+- 不正 (injustice — not + correct)
+- 不十分 (insufficient — not + enough)
+- 不注意 (careless — not + careful)
+- 不意 (unexpected — not + intentional)
 
-**無(む) compounds**:
-- {無料(むりょう)} (free — without + fee)
-- {無限(むげん)} (infinite — without + limit)
-- {無意味(むいみ)} (meaningless — without + meaning)
-- {無関心(むかんしん)} (indifferent — without + interest)
+**無 compounds**:
+- 無料 (free — without + fee)
+- 無限 (infinite — without + limit)
+- 無意味 (meaningless — without + meaning)
+- 無関心 (indifferent — without + interest)
 
 ### 4.3 People — 人者子
 
@@ -210,10 +210,10 @@ All four negation kanji are **left-side** (prefix-like) elements — they attach
 | **子** | child | **156** | 27 | 183 | Extremely Left |
 | **者** | person (role) | 1 | **87** | 88 | Strongly Right |
 
-**者(もの)** is the go-to suffix for creating agent nouns ("-er" / "-ist"). Nearly all its compounds have it on the right side:
-- {医者(いしゃ)} (doctor), {科学者(かがくしゃ)} (scientist), {読者(どくしゃ)} (reader), {記者(きしゃ)} (journalist), {労働者(ろうどうしゃ)} (worker)
+**者** is the go-to suffix for creating agent nouns ("-er" / "-ist"). Nearly all its compounds have it on the right side:
+- 医者 (doctor), 科学者 (scientist), 読者 (reader), 記者 (journalist), 労働者 (worker)
 
-The single left-hand compound is likely {者共(ものとも)} (those people / they), a rare usage.
+The single left-hand compound is likely 者共 (those people / they), a rare usage.
 
 ### 4.4 Abstract Suffixes — 的性化
 
@@ -226,13 +226,13 @@ From the first query (specific kanji):
 | **化** | -ization | 12 | **57** | 69 | Right (suffix) |
 
 All three are **right-dominant** — they are classic suffixes:
-- **的(てき)**: {科学的(かがくてき)} (scientific), {経済的(けいざいてき)} (economic), {具体的(ぐたいてき)} (concrete)
-- **性(せい)**: {可能性(かのうせい)} (possibility), {安全性(あんぜんせい)} (safety), {重要性(じゅうようせい)} (importance)
-- **化(か)**: {現代化(げんだいか)} (modernization), {自動化(じどうか)} (automation), {国際化(こくさいか)} (internationalization)
+- **的**: 科学的 (scientific), 経済的 (economic), 具体的 (concrete)
+- **性**: 可能性 (possibility), 安全性 (safety), 重要性 (importance)
+- **化**: 現代化 (modernization), 自動化 (automation), 国際化 (internationalization)
 
-**Important nuance — 的(てき) has two lives**:
-1. As a suffix meaning "-ic/-al": {科学的(かがくてき)}, {経済的(けいざいてき)} — Right position (the dominant usage)
-2. As a noun meaning "target": {目的(もくてき)} (purpose), {的中(てきちゅう)} (hit the mark) — Left position (3 compounds)
+**Important nuance — 的 has two lives**:
+1. As a suffix meaning "-ic/-al": 科学的, 経済的 — Right position (the dominant usage)
+2. As a noun meaning "target": 目的 (purpose), 的中 (hit the mark) — Left position (3 compounds)
 
 ### 4.5 Systems — 制体制成
 
@@ -244,42 +244,42 @@ From the first query:
 | **成** | become, form | 39 | 35 | 74 |
 | **体** | body, system | 28 | 31 | 59 |
 
-**制(せい)** (52 total compounds) — moderate but reliable productivity:
+**制** (52 total compounds) — moderate but reliable productivity:
 
-**制(せい) on the left** (prefix):
-- {制度(せいど)} (system — system + degree)
-- {制限(せいげん)} (restriction — system + limit)
-- {制御(せいぎょ)} (control — system + drive)
-- {制作(せいさく)} (production — system + make)
+**制 on the left** (prefix):
+- 制度 (system — system + degree)
+- 制限 (restriction — system + limit)
+- 制御 (control — system + drive)
+- 制作 (production — system + make)
 
-**制(せい) on the right** (suffix):
-- {体制(たいせい)} (structure — body + system)
-- {規制(きせい)} (regulation — rule + system)
-- {統制(とうせい)} (control — unified + system)
-- {抑制(よくせい)} (suppression — restrain + system)
-- {強制(きょうせい)} (compulsion — force + system)
-- {法制(ほうせい)} (legislation — law + system)
-- {節制(せっせい)} (moderation — moderate + system)
+**制 on the right** (suffix):
+- 体制 (structure — body + system)
+- 規制 (regulation — rule + system)
+- 統制 (control — unified + system)
+- 抑制 (suppression — restrain + system)
+- 強制 (compulsion — force + system)
+- 法制 (legislation — law + system)
+- 節制 (moderation — moderate + system)
 
-**成(せい)** (74 total compounds) — balanced between left and right:
+**成** (74 total compounds) — balanced between left and right:
 
-**成(せい) on the left** (prefix):
-- {成功(せいこう)} (success — become + merit)
-- {成果(せいか)} (result — become + fruit)
-- {成長(せいちょう)} (growth — become + long)
-- {成熟(せいじゅく)} (maturity — become + ripe)
-- {成立(せいりつ)} (establishment — become + stand)
+**成 on the left** (prefix):
+- 成功 (success — become + merit)
+- 成果 (result — become + fruit)
+- 成長 (growth — become + long)
+- 成熟 (maturity — become + ripe)
+- 成立 (establishment — become + stand)
 
-**成(せい) on the right** (suffix):
-- {完成(かんせい)} (completion — finish + become)
-- {構成(こうせい)} (composition — construct + become)
-- {形成(けいせい)} (formation — shape + become)
-- {養成(ようせい)} (training — nurture + become)
-- {育成(いくせい)} (fostering — raise + become)
-- {達成(たっせい)} (achievement — attain + become)
-- {賛成(さんせい)} (agreement — support + become)
+**成 on the right** (suffix):
+- 完成 (completion — finish + become)
+- 構成 (composition — construct + become)
+- 形成 (formation — shape + become)
+- 養成 (training — nurture + become)
+- 育成 (fostering — raise + become)
+- 達成 (achievement — attain + become)
+- 賛成 (agreement — support + become)
 
-**制(せい) and 成(せい) together**: The common compound **{体制(たいせい)}** (system + system = structure/system) uses both.
+**制 and 成 together**: The common compound **体制** (system + system = structure/system) uses both.
 
 ### 4.6 Location — 上下中内外
 
@@ -293,11 +293,11 @@ From the first query:
 
 Location kanji are the most **balanced** — they appear freely on both sides.
 
-**上(うえ)**: {以上(いじょう)} (above), {上昇(じょうしょう)} (rise), {地上(ちじょう)} (ground), {水上(すいじょう)} (on water)
-**下(した)**: {以下(いか)} (below), {下降(かこう)} (descent), {地下(ちか)} (underground), {状況下(じょうきょうか)} (under circumstances)
-**中(なか)**: {中国(ちゅうごく)} (China), {集中(しゅうちゅう)} (concentrate), {空中(くうちゅう)} (in the air), {水中(すいちゅう)} (in water)
-**内(ない)**: {国内(こくない)} (domestic), {市内(しない)} (within city), {内部(ないぶ)} (interior)
-**外(そと)**: {外国(がいこく)} (foreign), {外部(がいぶ)} (exterior), {以外(いがい)} (except), {海外(かいがい)} (overseas)
+**上**: 以上 (above), 上昇 (rise), 地上 (ground), 水上 (on water)
+**下**: 以下 (below), 下降 (descent), 地下 (underground), 状況下 (under circumstances)
+**中**: 中国 (China), 集中 (concentrate), 空中 (in the air), 水中 (in water)
+**内**: 国内 (domestic), 市内 (within city), 内部 (interior)
+**外**: 外国 (foreign), 外部 (exterior), 以外 (except), 海外 (overseas)
 
 ---
 
@@ -337,18 +337,18 @@ A key insight from the data: some kanji naturally want to be on one side or the 
 
 ### 1. Learn by Side Preference
 
-If a kanji is **strongly left-dominant** (like 人(にん), 事(こと), 行(ぎょう)), learn it as a **prefix-like root** — it modifies the next kanji.
+If a kanji is **strongly left-dominant** (like 人, 事, 行), learn it as a **prefix-like root** — it modifies the next kanji.
 
-If a kanji is **strongly right-dominant** (like 者(もの), 的(てき), 性(せい), 化(か)), learn it as a **suffix-like root** — it gets modified by the preceding kanji.
+If a kanji is **strongly right-dominant** (like 者, 的, 性, 化), learn it as a **suffix-like root** — it gets modified by the preceding kanji.
 
 ### 2. The 不 Discovery
 
-不(ふ) has **zero** right-hand compounds. It only appears in the first position — this confirms 不(ふ) is a pure prefix. When you see 不(ふ) in a jukugo, 不(ふ) is **always on the left**, negating whatever follows:
+不 has **zero** right-hand compounds. It only appears in the first position — this confirms 不 is a pure prefix. When you see 不 in a jukugo, 不 is **always on the left**, negating whatever follows:
 
-- 不(ふ) + {可能(かのう)} (possible) = {不可能(ふかのう)} (impossible)
-- 不(ふ) + 安(あん) (peace) = {不安(ふあん)} (anxiety, unease)
+- 不 + 可能 (possible) = 不可能 (impossible)
+- 不 + 安 (peace) = 不安 (anxiety, unease)
 
-This aligns with how every textbook explains it — 不(ふ) = "un-/in-/dis-" as a prefix.
+This aligns with how every textbook explains it — 不 = "un-/in-/dis-" as a prefix.
 
 ### 3. Your Specific Kanji: 制 and 成
 
@@ -357,12 +357,12 @@ This aligns with how every textbook explains it — 不(ふ) = "un-/in-/dis-" as
 | **制** | 52 | system, control | Left (32L, 20R) — somewhat left |
 | **成** | 74 | become, form | Balanced (39L, 35R) — almost 50/50 |
 
-**制(せい)** leans left — it often *sets the system*:
-- {制度(せいど)} (system), {制限(せいげん)} (restriction), {制御(せいぎょ)} (control), {制作(せいさく)} (production)
+**制** leans left — it often *sets the system*:
+- 制度 (system), 制限 (restriction), 制御 (control), 制作 (production)
 
-**成(せい)** is balanced — it can be the action or the result:
-- Left: {成功(せいこう)} (success), {成長(せいちょう)} (growth) — "becoming" as action  
-- Right: {完成(かんせい)} (completion), {構成(こうせい)} (composition) — "become" as result
+**成** is balanced — it can be the action or the result:
+- Left: 成功 (success), 成長 (growth) — "becoming" as action  
+- Right: 完成 (completion), 構成 (composition) — "become" as result
 
 ### 4. The Database as a Learning Tool
 

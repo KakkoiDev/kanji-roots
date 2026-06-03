@@ -10,7 +10,7 @@ topic: Japanese multi-functional verbs and compound verbs
 
 > *Exploring how Japanese verbs — like English "give up / give in / give out" — combine with various elements to produce diverse meanings*
 
-**Part of the [Roots of Japanese](index.md) project.** See also: [Kanji Roots Overview](Japanese_Kanji_Productive_Roots.md) | [Kanji Roots Deep Dive](Kanji_Root_Families_Deep_Dive.md) | [Grammar Unlocks](JAPANESE-UNLOCKS.md) | [{日本語版(にほんごばん)}]({日本語(にほんご)}の{多機能動詞(たきのうどうし)}.md)
+**Part of the [Roots of Japanese](index.md) project.** See also: [Kanji Roots Overview](Japanese_Kanji_Productive_Roots.md) | [Kanji Roots Deep Dive](Kanji_Root_Families_Deep_Dive.md) | [Grammar Unlocks](JAPANESE-UNLOCKS.md) | [日本語版](日本語の多機能動詞.md)
 
 ---
 
@@ -21,10 +21,10 @@ topic: Japanese multi-functional verbs and compound verbs
    - 1.1 [Basic Structure](#11-basic-structure)
    - 1.2 [Two Types](#12-two-types)
 3. [Chapter 2: Catalog of Multi-Functional Second Verbs (V2)](#chapter-2-catalog-of-multi-functional-second-verbs-v2)
-   - 2.1 [Inception — 始(し)める vs 出(しゅつ)す](#21-inception--はじめる-vs-だす)
+   - 2.1 [Inception — 始める vs 出す](#21-inception--はじめる-vs-だす)
    - 2.2 [Continuation & Completion](#22-continuation--completion)
    - 2.3 [Reciprocal & Repetitive](#23-reciprocal--repetitive)
-   - 2.4 [Spatial & Movement (the Polymorphic King: 込(こみ)む)](#24-spatial--movement-the-polymorphic-king-こむ)
+   - 2.4 [Spatial & Movement (the Polymorphic King: 込む)](#24-spatial--movement-the-polymorphic-king-こむ)
    - 2.5 [Failure & Negation](#25-failure--negation)
    - 2.6 [Habit & Ability](#26-habit--ability)
 4. [Chapter 3: Multi-Functional First Verbs (V1)](#chapter-3-multi-functional-first-verbs-v1)
@@ -40,8 +40,8 @@ In English, "give" changes meaning dramatically depending on the particle that f
 
 Japanese multi-functional verbs appear in **two main forms**:
 
-1. **Compound verbs ({複合動詞(ふくごうどうし)} / ふくごうどうし)** — "verb + verb" combinations where the second verb functions like an English particle
-2. **Polysemous verbs ({多義動詞(たぎどうし)} / たぎどうし)** — single verbs that radiate multiple meanings from a core concept
+1. **Compound verbs (複合動詞 / ふくごうどうし)** — "verb + verb" combinations where the second verb functions like an English particle
+2. **Polysemous verbs (多義動詞 / たぎどうし)** — single verbs that radiate multiple meanings from a core concept
 
 This article focuses on **the second verb (V2) in compound verbs**, comparing them to English phrasal verbs, and maps out the full system of Japanese multi-functional verbs.
 
@@ -51,7 +51,7 @@ This article focuses on **the second verb (V2) in compound verbs**, comparing th
 
 ### 1.1 Basic Structure
 
-Compound verbs are formed by taking the **masu-stem ({連用形(れんようけい)}) of V1 + V2**:
+Compound verbs are formed by taking the **masu-stem (連用形) of V1 + V2**:
 
 ```
 言う (いう) → 言い (いい) + 始める → 言い始める (いいはじめる) = to start to say
@@ -87,7 +87,7 @@ Both mean "start" but with a crucial nuance difference:
 | 〜始める | はじめる | Planned, gradual onset. Deliberate action or natural process. | 食べ始める (start eating), 勉強し始める (start studying), 降り始める (start raining) |
 | 〜出す | だす | Sudden, spontaneous onset. Uncontrolled burst of action. | 泣き出す (burst into tears), 走り出す (break into a run), 笑い出す (burst out laughing) |
 
-> **Compare**: 「雨(あめ)が降(こう)り始(し)めた」= "It started to rain" (gradual, neutral) vs 「{突然(とつぜん)}、子(こ)どもが泣(きゅう)き出(しゅつ)した」= "Suddenly the child burst into tears" (uncontrolled, unexpected)
+> **Compare**: 「雨が降り始めた」= "It started to rain" (gradual, neutral) vs 「突然、子どもが泣き出した」= "Suddenly the child burst into tears" (uncontrolled, unexpected)
 
 ### 2.2 Continuation & Completion
 
@@ -102,7 +102,7 @@ Both mean "start" but with a crucial nuance difference:
 | 〜通す | とおす | persist, carry through | carry through | やり通す (see through), 読み通す (read through), 押し通す (push through) |
 | 〜果てる | はてる | completely (extreme state) | utterly (state) | 疲れ果てる (exhausted), 困り果てる (at a complete loss) |
 
-**〜上(うえ)げる** is a classic example of multi-functionality — it has a literal physical meaning ("look up" = {見上(みかみ)}げる) and an aspectual meaning ("write to completion" = 書(かき)き上(うえ)げる).
+**〜上げる** is a classic example of multi-functionality — it has a literal physical meaning ("look up" = 見上げる) and an aspectual meaning ("write to completion" = 書き上げる).
 
 ### 2.3 Reciprocal & Repetitive
 
@@ -112,11 +112,11 @@ Both mean "start" but with a crucial nuance difference:
 | 〜返す | かえす | do back / repeat | 言い返す (talk back), 繰り返す (repeat), 思い返す (reflect) |
 | 〜直す | なおす | redo (to correct) | 書き直す (rewrite), やり直す (redo), 考え直す (reconsider) |
 
-**〜合(ごう)う** is especially productive — it can also nominalize (話(はなし)し合(ごう)い = discussion), replacing a whole "each other" phrase with a single word.
+**〜合う** is especially productive — it can also nominalize (話し合い = discussion), replacing a whole "each other" phrase with a single word.
 
 ### 2.4 Spatial & Movement (the Polymorphic King: 込む)
 
-**〜込(こみ)む (こむ)** is the most multi-functional V2 in Japanese, with at least 5 distinct meanings — all derived from the core image of **"inward movement"**:
+**〜込む (こむ)** is the most multi-functional V2 in Japanese, with at least 5 distinct meanings — all derived from the core image of **"inward movement"**:
 
 | Meaning Category | Examples | Description |
 |-----------------|----------|-------------|
@@ -243,46 +243,46 @@ Beyond compound verbs, many basic Japanese verbs themselves carry multiple relat
 
 Prototype: "grasp with the hand"
 
-1. **Physically take**: 手(て)に取(しゅ)る (take in hand), 席(せき)を取(しゅ)る (take a seat)
-2. **Obtain**: 休(きゅう)みを取(しゅ)る (take a day off), {資格(しかく)}を取(しゅ)る (get a qualification)
-3. **Record**: {写真(しゃしん)}を撮(さつ)る (take a photo), メモを取(しゅ)る (take notes)
-4. **Remove**: 汚(お)れを取(しゅ)る (remove dirt), {塩分(えんぶん)}を取(しゅ)る (remove salt)
-5. **Choose**: Aを取(しゅ)る (choose A)
-6. **Ingest**: {食事(しょくじ)}を取(しゅ)る (have a meal)
-7. **Interpret**: {意味(いみ)}を取(しゅ)る (interpret the meaning)
-8. **Take time**: {手間取(てましゅ)}る (take effort / be time-consuming)
+1. **Physically take**: 手に取る (take in hand), 席を取る (take a seat)
+2. **Obtain**: 休みを取る (take a day off), 資格を取る (get a qualification)
+3. **Record**: 写真を撮る (take a photo), メモを取る (take notes)
+4. **Remove**: 汚れを取る (remove dirt), 塩分を取る (remove salt)
+5. **Choose**: Aを取る (choose A)
+6. **Ingest**: 食事を取る (have a meal)
+7. **Interpret**: 意味を取る (interpret the meaning)
+8. **Take time**: 手間取る (take effort / be time-consuming)
 
 ### 4.2 かける — "put/hang/apply"
 
 Prototype: "put X onto Y"
 
-1. **Physically put on**: {眼鏡(めがね)}をかける (put on glasses), {布団(ふとん)}をかける (spread a futon)
-2. **Communication**: {電話(でんわ)}をかける (make a phone call), 声(こえ)をかける (call out to)
-3. **Construct**: 橋(はし)をかける (build a bridge), 罠(わな)をかける (set a trap)
-4. **Time elapsed**: {時間(じかん)}がかかる (take time)
-5. **Apply burden**: {負担(ふたん)}をかける (cause burden), {迷惑(めいわく)}をかける (cause trouble), {圧力(あつりょく)}をかける (apply pressure)
-6. **V2 of compounds**: 浴(よく)びせかける (shower upon), 襲(しゅう)いかかる (attack), 呼(こ)びかける (appeal to)
+1. **Physically put on**: 眼鏡をかける (put on glasses), 布団をかける (spread a futon)
+2. **Communication**: 電話をかける (make a phone call), 声をかける (call out to)
+3. **Construct**: 橋をかける (build a bridge), 罠をかける (set a trap)
+4. **Time elapsed**: 時間がかかる (take time)
+5. **Apply burden**: 負担をかける (cause burden), 迷惑をかける (cause trouble), 圧力をかける (apply pressure)
+6. **V2 of compounds**: 浴びせかける (shower upon), 襲いかかる (attack), 呼びかける (appeal to)
 
 ### 4.3 はる (張る) — "stretch/spread/apply"
 
 Prototype: "spread something flat over a surface"
 
-1. **Paste/apply**: ポスターを張(ちょう)る (put up a poster), のりで張(ちょう)る (glue on)
-2. **Stretch**: ロープを張(ちょう)る (stretch a rope), 網(あみ)を張(ちょう)る (spread a net)
-3. **Puff out**: 胸(むね)を張(ちょう)る (puff out one's chest), 肩(かた)を張(ちょう)る (square one's shoulders)
-4. **Cost (idiomatic)**: 値(あたい)が張(ちょう)る (be expensive)
-5. **Harden/freeze**: {道路(どうろ)}が張(ちょう)る (the road freezes)
-6. **Compounds**: 張(ちょう)り切(せつ)る (be eager), 張(ちょう)り合(ごう)う (compete), 張(ちょう)り込(こみ)む (stake out)
+1. **Paste/apply**: ポスターを張る (put up a poster), のりで張る (glue on)
+2. **Stretch**: ロープを張る (stretch a rope), 網を張る (spread a net)
+3. **Puff out**: 胸を張る (puff out one's chest), 肩を張る (square one's shoulders)
+4. **Cost (idiomatic)**: 値が張る (be expensive)
+5. **Harden/freeze**: 道路が張る (the road freezes)
+6. **Compounds**: 張り切る (be eager), 張り合う (compete), 張り込む (stake out)
 
 ### 4.4 ぬく (抜く) — "pull out/extract"
 
 Prototype: "pull something from inside to outside"
 
-1. **Physically pull out**: 歯(は)を抜(ばつ)く (pull a tooth), 栓(せん)を抜(ばつ)く (pull a stopper), 刀(かたな)を抜(ばつ)く (draw a sword)
-2. **Select**: {選抜(せんばつ)}する (select), データを抜(ばつ)く (extract data)
-3. **Overtake**: 人(にん)を抜(ばつ)く (pass someone)
-4. **Remove**: 疲(ひ)れを抜(ばつ)く (relieve fatigue), アクを抜(ばつ)く (remove harshness)
-5. **V2 of compounds**: 戦(せん)い抜(ばつ)く (fight through), 考(こう)え抜(ばつ)く (think through / thoroughly)
+1. **Physically pull out**: 歯を抜く (pull a tooth), 栓を抜く (pull a stopper), 刀を抜く (draw a sword)
+2. **Select**: 選抜する (select), データを抜く (extract data)
+3. **Overtake**: 人を抜く (pass someone)
+4. **Remove**: 疲れを抜く (relieve fatigue), アクを抜く (remove harshness)
+5. **V2 of compounds**: 戦い抜く (fight through), 考え抜く (think through / thoroughly)
 
 This kind of radial category expansion — where a core meaning extends via metaphor and metonymy — is exactly the same phenomenon as English "give" or "take."
 
@@ -290,7 +290,7 @@ This kind of radial category expansion — where a core meaning extends via meta
 
 ## Chapter 5: NINJAL's "Compound Verb Lexicon" Classification
 
-The most authoritative academic resource is the **Compound Verb Lexicon ({複合動詞(ふくごうどうし)}レキシコン)** by the **National Institute for Japanese Language and Linguistics (NINJAL)**, covering **2,700+ compound verbs**. It classifies compounds into 4 structural types:
+The most authoritative academic resource is the **Compound Verb Lexicon (複合動詞レキシコン)** by the **National Institute for Japanese Language and Linguistics (NINJAL)**, covering **2,700+ compound verbs**. It classifies compounds into 4 structural types:
 
 ### VV Type (Verb + Verb)
 
@@ -354,14 +354,14 @@ Japanese multi-functional verbs operate on **three layers**. Mastering all three
 ### Layer 1: Syntactic Compound Verbs (V2 as Particle)
 ~30 V2 patterns that function like English particles. V1 is free.
 
-- **Key patterns**: 〜始(し)める (begin), 〜出(しゅつ)す (start suddenly), 〜続(ぞく)ける (continue), 〜終(おわり)わる (finish), 〜過(か)ぎる (too much), 〜直(ちょく)す (redo), 〜合(ごう)う (mutually)
+- **Key patterns**: 〜始める (begin), 〜出す (start suddenly), 〜続ける (continue), 〜終わる (finish), 〜過ぎる (too much), 〜直す (redo), 〜合う (mutually)
 - **Level**: Covers N3 grammar and vocabulary
-- **English analogy**: closest to phrasal verbs ( "start eating" → 食(しょく)べ始(し)める)
+- **English analogy**: closest to phrasal verbs ( "start eating" → 食べ始める)
 
 ### Layer 2: Lexical Compound Verbs (V1 as Multi-Functional Base)
 ~20 V1 bases that combine with many V2s.
 
-- **Key bases**: 取(しゅ)り〜, 引(ひき)き〜, 見(けん)〜, 受(じゅ)け〜, 立(りつ)ち〜, 押(おう)し〜, 打(だ)ち〜, 追(つい)い〜
+- **Key bases**: 取り〜, 引き〜, 見〜, 受け〜, 立ち〜, 押し〜, 打ち〜, 追い〜
 - **Level**: N2〜N1
 - **English analogy**: Like "give up / give in / give out / give away" — learn the base, then the combinations
 
