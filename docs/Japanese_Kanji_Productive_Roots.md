@@ -24,22 +24,22 @@ topic: Most productive kanji in two-character compound words
 4. [Kanji That Prefer the Left-Hand Position (Prefix-like)](#kanji-that-prefer-the-left-hand-position-prefix-like)
 5. [Kanji That Prefer the Right-Hand Position (Suffix-like)](#kanji-that-prefer-the-right-hand-position-suffix-like)
 6. [Semantic Families of Productive Kanji](#semantic-families-of-productive-kanji)
-   - [6.1 Size, Degree, Status — 大 小 高 低 長 短 多 少](#61-size-degree-status)
-   - [6.2 Negation & Opposition — 不 無 非 反 対 抗](#62-negation--opposition)
-   - [6.3 People & Roles — 人 者 員 家 士 長 手](#63-people--roles)
-   - [6.4 Action & Change — 生 成 変 化 作 制 発 行](#64-action--change)
-   - [6.5 Time & Space — 日 年 月 時 代 世 間 中 外 上 下](#65-time--space)
-   - [6.6 Abstract Relations — 的 性 化 主義](#66-abstract-relations)
-   - [6.7 Society & Systems — 国 社 会 経 済 政 治 法 制](#67-society--systems)
-   - [6.8 Direction & Movement — 出 入 進 退 開 閉 通 過](#68-direction--movement)
+   - [6.1 Size, Degree, Status — 大(だい) 小(しょう) 高(たか) 低(てい) 長(ちょう) 短(たん) 多(た) 少(しょう)](#61-size-degree-status)
+   - [6.2 Negation & Opposition — 不(ふ) 無(む) 非(ひ) 反(はん) 対(つい) 抗(こう)](#62-negation--opposition)
+   - [6.3 People & Roles — 人(にん) 者(もの) 員(いん) 家(いえ) 士(さむらい) 長(ちょう) 手(て)](#63-people--roles)
+   - [6.4 Action & Change — 生(なま) 成(せい) 変(へん) 化(か) 作(さく) 制(せい) 発(はつ) 行(ぎょう)](#64-action--change)
+   - [6.5 Time & Space — 日(にち) 年(ねん) 月(がつ) 時(とき) 代(だい) 世(よ) 間(かん) 中(なか) 外(そと) 上(うえ) 下(した)](#65-time--space)
+   - [6.6 Abstract Relations — 的(てき) 性(せい) 化(か) {主義(しゅぎ)}](#66-abstract-relations)
+   - [6.7 Society & Systems — 国(くに) 社(しゃ) 会(かい) 経(けい) 済(すみ) 政(まつりごと) 治(おさむ) 法(ほう) 制(せい)](#67-society--systems)
+   - [6.8 Direction & Movement — 出(しゅつ) 入(にゅう) 進(すすむ) 退(たい) 開(かい) 閉(へい) 通(とおり) 過(か)](#68-direction--movement)
 7. [The Most Productive Kanji in Detail](#the-most-productive-kanji-in-detail)
-   - [大 (big) — The Champion of Productivity](#大-big--the-champion-of-productivity)
-   - [不 (not/un-) — The Great Negator](#不-notun---the-great-negator)
-   - [者 (person) — People Suffix](#者-person--the-people-suffix)
-   - [的 (-ic/al) — The Adjectivalizer](#的-ical--the-adjectivalizer)
-   - [生 (life) — Life Force](#生-life--life-force)
-   - [性 (-ity/-ness) — Abstract Quality](#性--ityness--abstract-quality)
-   - [人 (person) — The Universal People Word](#人-person--the-universal-people-word)
+   - [大(だい) (big) — The Champion of Productivity](#大(だい)-big--the-champion-of-productivity)
+   - [不(ふ) (not/un-) — The Great Negator](#不(ふ)-notun---the-great-negator)
+   - [者(もの) (person) — People Suffix](#者(もの)-person--the-people-suffix)
+   - [的(てき) (-ic/al) — The Adjectivalizer](#的(てき)-ical--the-adjectivalizer)
+   - [生(なま) (life) — Life Force](#生(なま)-life--life-force)
+   - [性(せい) (-ity/-ness) — Abstract Quality](#性(せい)--ityness--abstract-quality)
+   - [人(にん) (person) — The Universal People Word](#人(にん)-person--the-universal-people-word)
 8. [Productivity by JLPT Level](#productivity-by-jlpt-level)
 9. [Practical Application: How to Learn Productive Kanji](#practical-application-how-to-learn-productive-kanji)
 10. [Research Resources](#research-resources)
@@ -50,7 +50,7 @@ topic: Most productive kanji in two-character compound words
 
 In English, knowing the Latin root **"struct"** unlocks a whole family of words: **construct, destruct, instruct, structure, infrastructure, reconstruct, obstruction, instructor**. Similarly, **"port"** gives you **report, import, export, transport, support, portable, deport, portfolio**.
 
-**Japanese kanji work exactly the same way.** A single kanji with a core meaning appears as a building block in dozens — sometimes hundreds — of two-kanji compound words (jukugo / 二字熟語). Learning these high-productivity kanij is like getting a master key to the Japanese lexicon.
+**Japanese kanji work exactly the same way.** A single kanji with a core meaning appears as a building block in dozens — sometimes hundreds — of two-kanji compound words (jukugo / {二字熟語(にじじゅくご)}). Learning these high-productivity kanij is like getting a master key to the Japanese lexicon.
 
 This guide ranks and categorizes the most **"multi-functional" kanji** — the ones that combine with the most partners to form the most compound words.
 
@@ -76,7 +76,7 @@ Research by Tamaoka & Altmann (2004) shows that:
 
 The authoritative study on this topic is **Tamaoka & Altmann (2004) "Symmetry of Japanese Kanji Lexical Productivity on the Left- and Right-hand Sides"** (Glottometrics, 7, 68-87). Using a corpus of 1,945 basic kanji, they counted how many unique two-kanji compound words each kanji participates in.
 
-Key finding: The kanji **大 (big / だい)** is the single most productive kanji overall, appearing in **469 unique compounds** (70 on the left, 399 on the right).
+Key finding: The kanji **大(だい) (big / だい)** is the single most productive kanji overall, appearing in **469 unique compounds** (70 on the left, 399 on the right).
 
 The **Kanji Database** (kanjidatabase.com) by Tamaoka, Makioka, Sanders & Verdonschot (2017) extends this to 2,136 Jōyō kanji using 11 years of Mainichi Newspaper data.
 
@@ -275,24 +275,24 @@ These kanji typically appear as the **second element**, modifying or categorizin
 The core meaning "big" extends metaphorically to "great, important, large-scale, extensive."
 
 **Left-hand (prefix-like):**
-- 大学 (university — big study)
-- 大事 (important — big matter)
-- 大部分 (most part — big portion)
-- 大使 (ambassador — big envoy)
-- 大統領 (president — big commander)
-- 大規模 (large scale)
-- 大企業 (large corporation)
-- 大地震 (major earthquake)
+- {大学(だいがく)} (university — big study)
+- {大事(だいじ)} (important — big matter)
+- {大部分(だいぶぶん)} (most part — big portion)
+- {大使(たいし)} (ambassador — big envoy)
+- {大統領(だいとうりょう)} (president — big commander)
+- {大規模(だいきぼ)} (large scale)
+- {大企業(だいきぎょう)} (large corporation)
+- {大地震(だいじしん)} (major earthquake)
 
 **Right-hand (suffix-like):**
-- 最大 (maximum — most big)
-- 拡大 (expansion — spread big)
-- 巨大 (huge — giant big)
-- 強大 (powerful — strong big)
-- 壮大 (grand — majestic big)
-- 重大 (serious — heavy big)
-- 絶大 (enormous — extreme big)
-- 尊大 (arrogant — haughty big)
+- {最大(さいだい)} (maximum — most big)
+- {拡大(かくだい)} (expansion — spread big)
+- {巨大(きょだい)} (huge — giant big)
+- {強大(きょうだい)} (powerful — strong big)
+- {壮大(そうだい)} (grand — majestic big)
+- {重大(じゅうだい)} (serious — heavy big)
+- {絶大(ぜつだい)} (enormous — extreme big)
+- {尊大(そんだい)} (arrogant — haughty big)
 
 **English analogy**: "macro- / mega- / magni-"
 
@@ -304,18 +304,18 @@ The core meaning "big" extends metaphorically to "great, important, large-scale,
 
 The most productive negation prefix in Japanese. Attaches freely to nouns, na-adjectives, and verbs.
 
-- 不安 (uneasy — not peaceful)
-- 不可能 (impossible — not possible)
-- 不満 (dissatisfaction — not full/satisfied)
-- 不便 (inconvenient — not convenient)
-- 不十分 (insufficient — not enough)
-- 不注意 (carelessness — not careful)
-- 不況 (recession — not prosperous)
-- 不正 (injustice — not correct)
-- 不公平 (unfair — not fair)
-- 不朽 (immortal — not decay)
-- 不意 (unexpected — not intentional)
-- 不在 (absence — not present)
+- {不安(ふあん)} (uneasy — not peaceful)
+- {不可能(ふかのう)} (impossible — not possible)
+- {不満(ふまん)} (dissatisfaction — not full/satisfied)
+- {不便(ふべん)} (inconvenient — not convenient)
+- {不十分(ふじゅうぶん)} (insufficient — not enough)
+- {不注意(ふちゅうい)} (carelessness — not careful)
+- {不況(ふきょう)} (recession — not prosperous)
+- {不正(ふせい)} (injustice — not correct)
+- {不公平(ふこうへい)} (unfair — not fair)
+- {不朽(ふきゅう)} (immortal — not decay)
+- {不意(ふい)} (unexpected — not intentional)
+- {不在(ふざい)} (absence — not present)
 
 **English analogy**: "un- / in- / dis- / im-"
 
@@ -327,18 +327,18 @@ The most productive negation prefix in Japanese. Attaches freely to nouns, na-ad
 
 The go-to suffix for creating "person who does X" or "person characterized by X."
 
-- 医者 (doctor — medical person)
-- 科学者 (scientist — science person)
-- 記者 (journalist — record person)
-- 読者 (reader — read person)
-- 患者 (patient — suffer person)
-- 学者 (scholar — study person)
-- 著者 (author — write person)
-- 労働者 (worker — labor person)
-- 経営者 (manager — management person)
-- 被害者 (victim — damage person)
-- 当事者 (person concerned)
-- 第三者 (third party)
+- {医者(いしゃ)} (doctor — medical person)
+- {科学者(かがくしゃ)} (scientist — science person)
+- {記者(きしゃ)} (journalist — record person)
+- {読者(どくしゃ)} (reader — read person)
+- {患者(かんじゃ)} (patient — suffer person)
+- {学者(がくしゃ)} (scholar — study person)
+- {著者(ちょしゃ)} (author — write person)
+- {労働者(ろうどうしゃ)} (worker — labor person)
+- {経営者(けいえいしゃ)} (manager — management person)
+- {被害者(ひがいしゃ)} (victim — damage person)
+- {当事者(とうじしゃ)} (person concerned)
+- {第三者(だいさんしゃ)} (third party)
 
 **English analogy**: "-er / -ist / -ian / -or"
 
@@ -350,18 +350,18 @@ The go-to suffix for creating "person who does X" or "person characterized by X.
 
 This kanji originally means "target/bullseye" but is overwhelmingly used as an adjectival suffix, equivalent to "-ic" or "-al" in English. Attaches to Sino-Japanese nouns to create na-adjectives.
 
-- 科学的 (scientific)
-- 経済的 (economic)
-- 具体的 (concrete)
-- 抽象的 (abstract)
-- 国際的 (international)
-- 個人的 (personal)
-- 精神的 (mental / spiritual)
-- 実際的 (practical)
-- 自然的 (natural)
-- 積極的 (positive / active)
-- 消極的 (negative / passive)
-- 目的 (purpose — the original meaning: "target + mark")
+- {科学的(かがくてき)} (scientific)
+- {経済的(けいざいてき)} (economic)
+- {具体的(ぐたいてき)} (concrete)
+- {抽象的(ちゅうしょうてき)} (abstract)
+- {国際的(こくさいてき)} (international)
+- {個人的(こじんてき)} (personal)
+- {精神的(せいしんてき)} (mental / spiritual)
+- {実際的(じっさいてき)} (practical)
+- {自然的(しぜんてき)} (natural)
+- {積極的(せっきょくてき)} (positive / active)
+- {消極的(しょうきょくてき)} (negative / passive)
+- {目的(もくてき)} (purpose — the original meaning: "target + mark")
 
 **English analogy**: "-ic / -al / -ive / -ous"
 
@@ -374,21 +374,21 @@ This kanji originally means "target/bullseye" but is overwhelmingly used as an a
 One of the most versatile kanji spanning life, birth, living, raw, and learning.
 
 **Left-hand:**
-- 生活 (living — life + activity)
-- 生産 (production — life + produce)
-- 生命 (life — life + fate)
-- 生物 (living thing — life + thing)
-- 生育 (growth — life + raise)
+- {生活(せいかつ)} (living — life + activity)
+- {生産(せいさん)} (production — life + produce)
+- {生命(せいめい)} (life — life + fate)
+- {生物(せいぶつ)} (living thing — life + thing)
+- {生育(せいいく)} (growth — life + raise)
 
 **Right-hand:**
-- 人生 (human life — person + life)
-- 学生 (student — study + life)
-- 先生 (teacher — prior + life)
-- 衛生 (hygiene — guard + life)
-- 一生 (whole life — one + life)
-- 誕生 (birth — be born + life)
-- 留学 (study abroad — flow + study)
-- 生活 (living — life + activity)
+- {人生(じんせい)} (human life — person + life)
+- {学生(がくせい)} (student — study + life)
+- {先生(せんせい)} (teacher — prior + life)
+- {衛生(えいせい)} (hygiene — guard + life)
+- {一生(いっしょう)} (whole life — one + life)
+- {誕生(たんじょう)} (birth — be born + life)
+- {留学(りゅうがく)} (study abroad — flow + study)
+- {生活(せいかつ)} (living — life + activity)
 
 **English analogy**: "bio- / -life / -genesis"
 
@@ -400,17 +400,17 @@ One of the most versatile kanji spanning life, birth, living, raw, and learning.
 
 Creates abstract nouns expressing quality, nature, or property. Equivalent to "-ity," "-ness," or "-ence" in English.
 
-- 可能性 (possibility — can + nature)
-- 重要性 (importance — important + nature)
-- 安全性 (safety — safe + nature)
-- 必要性 (necessity — necessary + nature)
-- 危険性 (danger — danger + nature)
-- 習慣性 (habituality — habit + nature)
-- 人間性 (humanity — human + nature)
-- 個性 (individuality — individual + nature)
-- 男性 (male — male + nature)
-- 女性 (female — female + nature)
-- 性格 (personality — nature + character)
+- {可能性(かのうせい)} (possibility — can + nature)
+- {重要性(じゅうようせい)} (importance — important + nature)
+- {安全性(あんぜんせい)} (safety — safe + nature)
+- {必要性(ひつようせい)} (necessity — necessary + nature)
+- {危険性(きけんせい)} (danger — danger + nature)
+- {習慣性(しゅうかんせい)} (habituality — habit + nature)
+- {人間性(にんげんせい)} (humanity — human + nature)
+- {個性(こせい)} (individuality — individual + nature)
+- {男性(だんせい)} (male — male + nature)
+- {女性(じょせい)} (female — female + nature)
+- {性格(せいかく)} (personality — nature + character)
 
 **English analogy**: "-ity / -ness / -ence"
 
@@ -423,22 +423,22 @@ Creates abstract nouns expressing quality, nature, or property. Equivalent to "-
 The basic word for person. On the right-hand side, it creates nationality and role words.
 
 **Right-hand (suffix-like):**
-- 日本人 (Japanese person)
-- 外国人 (foreigner)
-- 中国人 (Chinese person)
-- 詩人 (poet)
-- 商人 (merchant / business person)
-- 本人 (the person himself/herself)
-- 一般人 (general public)
-- 有名人 (famous person)
-- 証人 (witness)
+- {日本人(にほんじん)} (Japanese person)
+- {外国人(がいこくじん)} (foreigner)
+- {中国人(ちゅうごくじん)} (Chinese person)
+- {詩人(しじん)} (poet)
+- {商人(しょうにん)} (merchant / business person)
+- {本人(ほんにん)} (the person himself/herself)
+- {一般人(いっぱんじん)} (general public)
+- {有名人(ゆうめいじん)} (famous person)
+- {証人(しょうにん)} (witness)
 
 **Left-hand:**
-- 人口 (population — person + mouth)
-- 人生 (human life — person + life)
-- 人間 (human being — person + interval)
-- 人工 (artificial — person + work)
-- 人格 (personality — person + character)
+- {人口(じんこう)} (population — person + mouth)
+- {人生(じんせい)} (human life — person + life)
+- {人間(にんげん)} (human being — person + interval)
+- {人工(じんこう)} (artificial — person + work)
+- {人格(じんかく)} (personality — person + character)
 
 **English analogy**: "person / -an / -ian"
 
@@ -514,8 +514,8 @@ When you encounter a new jukugo, ask:
 2. Have I seen either kanji before in other compounds?
 3. Can I guess the meaning from the parts?
 
-Example: 不可能性 (impossibility)
-- 不 (not) + 可能 (possible) + 性 (-ity)
+Example: {不可能性(ふかのうせい)} (impossibility)
+- 不(ふ) (not) + {可能(かのう)} (possible) + 性(せい) (-ity)
 - = not + possible + nature = impossibility
 
 ### Strategy 4: Use the Tools

@@ -14,7 +14,7 @@ resource that teaches it best.
 
 1. **Two different "click" layers. Don't expect one tool for both.**
    - *Kanji-root click* (your original `作る/造る`, `様` question) = vocabulary + reading leverage. Lives in
-     the written character: meaning-roots, phonetic series 形声, 異字同訓 (one word, many kanji = nuance).
+     the written character: meaning-roots, phonetic series {形声(けいせい)}, {異字同訓(いじどうくん)} (one word, many kanji = nuance).
      Covered in the last section.
    - *Grammar/structure click* (what you actually want) = syntax + semantics. は/が, head-final order,
      transitivity, て-form. That is the bulk of this doc.
@@ -39,7 +39,7 @@ Don't binge all ten at once. They only click when you have enough input to attac
 ### 1. The が-core: every sentence is `A が B` (carriage + engine)
 が marks the doer/be-er; the whole sentence is built around it, even when が is dropped or hidden under は.
 `B` (the verb/adjective/copula) is the engine; `A が` is what it acts on or through.
-- `雨が降る` - *rain falls.* (が = 雨 is the faller; 降る is the engine)
+- `雨が降る` - *rain falls.* (が = 雨(あめ) is the faller; 降(こう)る is the engine)
 - `(私が) 寿司を食べる` - *(I) eat sushi.* The が-doer is there even when omitted.
 
 Once you stop hunting for an English-style "subject" and instead find the が-core, the so-called
@@ -51,8 +51,8 @@ Once you stop hunting for an English-style "subject" and instead find the が-co
 
 ### 2. は = topic ("as for X"), NOT subject. は vs が.
 は floats *above* the が-core and sets the frame; it is not a subject marker.
-- `象は鼻が長い` - *As for elephants, the nose is long.* (は = topic 象; が = subject 鼻 of 長い)
-- うなぎ文: at a restaurant, `僕はうなぎだ` = *"I'll have the eel"*, literally "as-for-me, it's eel." Proof
+- `象は鼻が長い` - *As for elephants, the nose is long.* (は = topic 象(ぞう); が = subject 鼻(はな) of 長(ちょう)い)
+- うなぎ文(ぶん): at a restaurant, `僕はうなぎだ` = *"I'll have the eel"*, literally "as-for-me, it's eel." Proof
   that は ≠ "I = eel."
 - Minimal pair: `私が行きます` = "*I* (and not the others) will go" (が identifies/selects);
   `私は行きます` = "as for me, I'll go" (は = neutral topic).
@@ -72,7 +72,7 @@ Tae Kim [Grammar Guide](https://guidetojapanese.org/learn/grammar).
 
 ### 4. Particles tag the role -> phrase order is flexible
 を/が/に/で/へ/と mark grammatical role, so order before the verb is free without changing meaning.
-- `私は寿司を食べる` ≈ `寿司を私は食べる` - same meaning; を keeps 寿司 the object either way.
+- `私は寿司を食べる` ≈ `寿司を私は食べる` - same meaning; を keeps {寿司(すし)} the object either way.
 
 This is *why* head-final works: roles are glued on by particles, not by position. Contrast English's rigid
 subject-verb-object order.
@@ -126,7 +126,7 @@ Japanese cares more about complete vs incomplete than past/present/future.
 ### 10. Viewpoint stays anchored: なる-orientation, the suffering passive, 〜てくれる
 Japanese prefers describing situations as naturally-occurring over agent-forced.
 - `日本語が上手になりましたね` - "your Japanese *has become* good" (preferred over "you made it good").
-- 迷惑の受身 (suffering passive): `雨に降られた` = "I got rained on" - passive marks being adversely affected.
+- {迷惑(めいわく)}の{受身(うけみ)} (suffering passive): `雨に降られた` = "I got rained on" - passive marks being adversely affected.
 - `〜てくれる` frames another's action as a benefit *received by* the speaker's side.
 -> Rubin, *Making Sense of Japanese*; Makino & Tsutsui, DIJG / DAJG (intermediate / advanced).
 
@@ -146,8 +146,8 @@ Japanese prefers describing situations as naturally-occurring over agent-forced.
 **Kanji layer (your original question):**
 [Outlier Linguistics Kanji Dictionary](https://www.outlier-linguistics.com/),
 [*The Kanji Code* phonetic components](https://thekanjicode.com/2018/12/16/japanese-phonetic-components/),
-文化庁 [「異字同訓」の漢字の使い分け例 (2014)](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/ijidokun_140221.pdf),
-and the [Keisei 形声 WaniKani userscript](https://community.wanikani.com/t/userscript-keisei-%E5%BD%A2%E5%A3%B0-semantic-phonetic-composition/21479) if you use WaniKani.
+{文化庁(ぶんかちょう)} [「{異字同訓(いじどうくん)}」の{漢字(かんじ)}の使(し)い分(ふん)け例(れい) (2014)](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/ijidokun_140221.pdf),
+and the [Keisei {形声(けいせい)} WaniKani userscript](https://community.wanikani.com/t/userscript-keisei-%E5%BD%A2%E5%A3%B0-semantic-phonetic-composition/21479) if you use WaniKani.
 
 ---
 
