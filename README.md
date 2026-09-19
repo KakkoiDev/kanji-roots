@@ -27,6 +27,9 @@ mkdocs serve          # quick preview (no furigana)
 
 Furigana is generated at build time, not committed, so the source markdown stays clean. To preview with furigana exactly as CI builds it:
 
+Japanese reading generation is provided by [JP Core](https://github.com/KakkoiDev/jp-core);
+this repository retains only its Markdown traversal and project-specific reading overrides.
+
 ```sh
 python scripts/patch-ruby-plugin.py    # restrict furigana matching to CJK
 python scripts/add-furigana.py docs/   # edits docs/ in place - run `git checkout docs/` afterwards
