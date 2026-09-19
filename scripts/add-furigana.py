@@ -13,18 +13,7 @@ import re
 import sys
 import os
 
-import pykakasi
-
-
-# ── Initialise pykakasi once ────────────────────────────────────────────────
-_kks = pykakasi.kakasi()
-
-# Regex: CJK Unified Ideographs (kanji)
-RE_KANJI = re.compile(r'[\u4e00-\u9fff\u3400-\u4dbf]+')
-
-
-def _is_hiragana(ch: str) -> bool:
-    return bool(ch) and '\u3040' <= ch <= '\u309f'
+from jp_core import reading
 
 
 # Forced readings for single kanji shown as roots. pykakasi reads an isolated
@@ -41,40 +30,7 @@ OVERRIDES = {
 
 def _furiganize(text: str) -> str:
     """Add furigana to bare kanji in *text*, skipping already-annotated runs."""
-
-    def _replace(m: re.Match) -> str:
-        kanji = m.group(0)
-
-        # ── Guard: already annotated? check if followed by (reading) ──────
-        rest = text[m.end():m.end() + 15]
-        if rest.startswith('(') and ')' in rest[:15]:
-            return kanji
-
-        # single kanji: the reading is context-dependent, so handle with care
-        if len(kanji) == 1:
-            nxt = text[m.end():m.end() + 1]
-            # followed by okurigana (生きる, 行く): the kun reading varies,
-            # so leave it bare rather than guess a wrong reading
-            if _is_hiragana(nxt):
-                return kanji
-            if kanji in OVERRIDES:
-                return f'{kanji}({OVERRIDES[kanji]})'
-
-        # generate reading via pykakasi
-        try:
-            items = _kks.convert(kanji)
-            reading = ''.join(it['hira'] for it in items)
-        except Exception:
-            return kanji
-
-        if not reading or reading == kanji:
-            return kanji
-
-        if len(kanji) > 1:
-            return f'{{{kanji}({reading})}}'
-        return f'{kanji}({reading})'
-
-    return RE_KANJI.sub(_replace, text)
+    return reading.annotate(text, overrides=OVERRIDES)
 
 
 # ── Line-based markdown parser ──────────────────────────────────────────────
