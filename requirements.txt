@@ -2,4 +2,4 @@
 # mkdocs-ruby-plugin version below, so keep that pin in sync with the patch.
 mkdocs-material==9.7.6
 mkdocs-ruby-plugin==0.0.3
-pykakasi==2.3.0
+jp-core[generation] @ git+https://github.com/KakkoiDev/jp-core.git@00cfb40728b06fabc55e36110b071464c1ed2ae4
